@@ -2,9 +2,9 @@
 ## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi und werde dich beim Programmieren mit micro:bit begleiten.**
 
-<img width="20%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/robi_klein.png?raw=1">
+<img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
-<img width="20%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/robi_klein.png?raw=1">
+<img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
 Wir werden uns nun einen Geheimsprache ansehen - das ** Morse-Alphabet **. Es diente jahrzehntelang zum Übertragen von Nachrichten und wurde inzwischen in vielen Bereichen von technisch aufwendigen Verfahren abgelöst.
 Inzwischen gibt es unzählige Codes, die sogar noch zusätzlich verschlüsselt werden, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicherer übermittelt werden können.
@@ -13,7 +13,7 @@ Du wirst nun diese wichtige Morsealphabet kennenlernen.
 ## Die Zeichen des Morsealphabets
 Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über elektrische Leitungen übermitteln. Wichtig ist dabei, dass jeder Buchstabe, jede Ziffer genau einem Code entspricht.
 
-<img width="100%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/morse-tab.png?raw=1">
+<img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1">
 
 * Wie du aus der Tabelle siehst haben Morsezeichen nur den **Punkte** und den **Striche**. Jeder Buchstabe hat einen bestimmte Kombination von Punkten und Strichen.
 * Schreib dir die Buchsstaben ersten ** A bis G ** auf ein Blatt Papier heraus: **Buchstabe** und **Code**
@@ -30,7 +30,7 @@ Du baust nun für dem BBC micro:bit ein erstes Programm zum Zeigen der Morse-Cod
 * Taste B zeigt die Morse-Codes für diese Zeichen an 
 * Später wirst du dein Programm so ausgebauen, dass du Codes zu anderen micro:bits übertragen und somit Anderen senden kann.
 * Probiere das gleich mit dem Button "Dreieck" aus:
-<img width="40%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/dreieck.png?raw=1">
+<img width="40%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/dreieck.png?raw=1">
 
 ```blocks
 input.onButtonPressed(Button.A, () => { 
@@ -110,7 +110,7 @@ anz_bst = liste_buchstaben.length - 1
 ```
 
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/dlpl-mb/morse_code_01/raw/master/.github/makecode/blocks.png)
+![Eine gerenderte Ansicht der Blöcke](https://github.com/dlpl-mb/baa_morse_code_01/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
@@ -150,3 +150,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY3MDI2OTI3OF19
+-->
