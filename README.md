@@ -2,7 +2,7 @@
 ## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi und werde dich beim Programmieren mit micro:bit begleiten.**
 
-<img width="20%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/robi_klein.png?raw=1">
+<img width="20%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/robi_klein.png?raw=1"><img width="20%" src="https://github.com/dlpl-mb/morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
 Wir werden uns nun einen Geheimsprache ansehen - das ** Morse-Alphabet **. Es diente jahrzehntelang zum Übertragen von Nachrichten und wurde inzwischen in vielen Bereichen von technisch aufwendigen Verfahren abgelöst.
 Inzwischen gibt es unzählige Codes, die sogar noch zusätzlich verschlüsselt werden, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicherer übermittelt werden können.
