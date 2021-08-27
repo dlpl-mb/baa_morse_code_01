@@ -110,13 +110,11 @@ anz_bst = liste_buchstaben.length - 1
 ```
 
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/dlpl-mb/baa_morse_code_01/raw/master/.github/makecode/blocks.png)
-
 #### Metadaten
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjI1ODgxNl19
+eyJoaXN0b3J5IjpbLTE0NzgzMjc1NThdfQ==
 -->
