@@ -64,7 +64,7 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 * Innerhalb der Schleife zeigen wir mit einer **Laufvariable** - wir nennen sie hier **index** auf jeweils ein Element.
 
 
-## Fertiges Programm I
+## Fertiges Programm: Morse-Alphabet II
 Du kannst nun am folgenden fertigen Programms noch experimentiert. 
 * Verändere Variable und Zeiten
 * Beim Experimentieren an fremden Programmen kannst du viel lernen 
@@ -118,5 +118,5 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTgzODUzMV19
+eyJoaXN0b3J5IjpbMTMyNjI1ODgxNl19
 -->
