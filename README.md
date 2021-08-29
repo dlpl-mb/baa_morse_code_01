@@ -1,6 +1,6 @@
 
 ## Geheimzeichen: Das Morse-Alphabet I
-**Hallo, ich bin Robi01 und werde dich beim Programmieren mit micro:bit begleiten.**
+**Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
@@ -21,13 +21,13 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 
 ## Programm 1: Codes anzeigen 
 
-Du baust nun für dem BBC micro:bit ein erstes Programm zum Zeigen der Morse-Codes für A bis G. 
+Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für A bis G. 
 
 **Die Aufgaben lautet:**
 
-* Taste A des micro:bit zeigt die Buchstaben A bis G (Später nehmen wir alle anderen Buchstaben dazu.)
+* Taste A des Micro:bit zeigt die Buchstaben A bis G (Später nehmen wir alle anderen Buchstaben dazu.)
 * Taste B zeigt die Morse-Codes für diese Zeichen an 
-* Später wirst du dein Programm so ausgebauen, dass du Codes zu anderen micro:bits übertragen und somit Anderen senden kann.
+* Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bit übertragen und somit Anderen senden kann.
 * Probiere das gleich mit dem Button "Dreieck" aus:
 <img width="40%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/dreieck.png?raw=1">
 
@@ -115,6 +115,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTgxMTQ2OSwxNTkzMDkwOTg4LC0xND
+eyJoaXN0b3J5IjpbLTczMjExMzkwOSwxNTkzMDkwOTg4LC0xND
 c4MzI3NTU4XX0=
 -->
