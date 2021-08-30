@@ -61,9 +61,10 @@ Zugegeben: Das war ganz schön aufwändig, für jeden Buchstaben immer ein eigen
 ### Speicherung der Buchstaben 
 
 * Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer ) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element
-* **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element, das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G)
+* **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G)
 * Die höchste Nummer ist immer **Anzahl der Elemente - 1**
 * Das ist sicher sehr gewöhnungsbedürftig - man sollte sich das möglichst schnell angewöhnen und anwenden. 
+* Wie du unten im Beispiel ersehen kannst, werden die Indizes von 0 bis ... immer automatisch v
 ```blocks
 let liste_morsecodes: string[] = []
 let liste_buchstaben: string[] = []
@@ -153,11 +154,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MTc2NjY0LC0xNjAzNjI0MTkzLDIwNj
-g3MjcyNjQsMTQzNzk0NTgwMiwxMzAzMTQwOTgzLC0xMzg4ODA0
-NzE1LDE4NjQ2NzU4NzksODU2MDUyMzM5LDQwNjM4NDUyOSwtNj
-QxNzgwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMy
-NjU4MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NC
-wtNDczOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1
-NTAwMDA2MV19
+eyJoaXN0b3J5IjpbMTgzOTQzOTk0MSwtMTYwMzYyNDE5MywyMD
+Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
+NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
+Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
+MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
+QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
+NTUwMDAwNjFdfQ==
 -->
