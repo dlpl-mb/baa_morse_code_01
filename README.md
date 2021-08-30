@@ -15,7 +15,7 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1">
 
 * Wie du aus der Tabelle siehst haben Morsezeichen nur den **Punkte** und den **Striche**. Jeder Buchstabe hat einen bestimmte Kombination von Punkten und Strichen.
-* Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir nur einmal wenige Buchstaben.
+* Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir zu diesen ersten Übungen nur wenige Buchstaben.
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) nach jedem Wort.
 * **Gleich eine Frage:** Welcher Buchstabe ist das? -.. oder dieser Buchstabe. 
@@ -42,7 +42,7 @@ input.onButtonPressed(Button.B, () => {
     basic.showString(".-");
 });
 ```
-* Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Derzeit sind das immer wieder neue Programme für jeden Buchstaben.
+* Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst das Demoprogramm für jeden Buchstaben umschreiben.
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -117,6 +117,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQwMjE4MjgsLTQ5NDY2MzA3NSwtNz
+eyJoaXN0b3J5IjpbLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNz
 MyMTEzOTA5LDE1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
 -->
