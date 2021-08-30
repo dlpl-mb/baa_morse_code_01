@@ -52,10 +52,10 @@ input.onButtonPressed(Button.B, () => {
 
 Zugegeben: Das war ganz schön aufwändig, für jeden Buchstaben immer ein eigenes Programm zu schreiben.
 Wir packen nun alles 7 Buchstaben in ein Programm:
-* Wir müssen alle sieben Buchtaben in eine Liste hinein bringen
+* Wir müssen alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste** 
 * Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
-* Ändere den Variablen auf Buchstabenliste
+* Lege dort 2 Listen an: zwei Ändere den Variablen auf Buchstabenliste
 * Vervollständige die Buchstaben von "A" bis "G"
 
 ### Speicherung der Buchstaben 
@@ -128,11 +128,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxOTQ3MjgyLC0xNjAzNjI0MTkzLDIwNj
-g3MjcyNjQsMTQzNzk0NTgwMiwxMzAzMTQwOTgzLC0xMzg4ODA0
-NzE1LDE4NjQ2NzU4NzksODU2MDUyMzM5LDQwNjM4NDUyOSwtNj
-QxNzgwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMy
-NjU4MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NC
-wtNDczOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1
-NTAwMDA2MV19
+eyJoaXN0b3J5IjpbLTk0ODc2ODc1NSwtMTYwMzYyNDE5MywyMD
+Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
+NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
+Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
+MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
+QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
+NTUwMDAwNjFdfQ==
 -->
