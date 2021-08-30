@@ -1,7 +1,7 @@
 # Das Morse-Alphabet
 ## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
-Wenn du neu bist im Bereich Micro:bit, dann empfehle ich dir das [Schulbuch zum Micro:bit](https://microbit.eeducation.at/wiki/Hauptseite "(target|_blank)") zum Einarbeiten in diesen fabelhaften Kleincomputer. Diese Lektion benötigt bereits ein wenig Grundwissen in BBC micro:bit.
+Wenn du neu bist im Bereich Micro:bit, dann empfehle ich dir das [Schulbuch zum Micro:bit](https://microbit.eeducation.at/wiki/Hauptseite "(target|_blank)") zum Einarbeiten in diesen fabelhaften Kleincomputer. Diese Lektion benötigt bereits ein wenig Grundwissen in BBC micro:bit. Wichtig ist auch, dass ihr immer im Team zu zweit arbeitet.
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
@@ -20,11 +20,11 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) dann nach jedem Wort.
 * **Nun gleich eine Frage:** Welcher Buchstabe ist das? `-..` oder dieser Buchstabe `..-.`  
-* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder C zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
+* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder `C` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
 ## Programm 1: Codes anzeigen 
 
-Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für `A` bis G. 
+Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für `A` bis `G`. 
 
 **Die Aufgaben lautet:**
 
@@ -121,7 +121,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjY3MDQyNCw4NDA2OTAyNTgsLTE1NT
+eyJoaXN0b3J5IjpbMTM1MzEzNjU2OSw4NDA2OTAyNTgsLTE1NT
 M5ODAyNzIsMjEzMzQyNDM0LC0xNTUzOTgwMjcyLDYxOTY2MjA2
 NCwzNTM5NjI4NzksLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNz
 MyMTEzOTA5LDE1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
