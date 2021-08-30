@@ -18,7 +18,8 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 * Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code**
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) nach jedem Wort.
-* **Gleich eine Frage:** Welcher Buchstabe ist das? -.. oder dieser Buchstabe . 
+* **Gleich eine Frage:** Welcher Buchstabe ist das? -.. oder dieser Buchstabe. 
+* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein A oder B oder C zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
 ## Programm 1: Codes anzeigen 
 
@@ -116,6 +117,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYxMjc2OTksLTczMjExMzkwOSwxNT
-kzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
+eyJoaXN0b3J5IjpbLTQ5NDY2MzA3NSwtNzMyMTEzOTA5LDE1OT
+MwOTA5ODgsLTE0NzgzMjc1NThdfQ==
 -->
