@@ -44,7 +44,8 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 * Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst das Demoprogramm für jeden Buchstaben umschreiben.
-* [Programmcode a1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
+
+    [Programmcode b1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -120,12 +121,13 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMz
-g1OTMxOTYwLDEwNTUwMDAwNjEsLTE0MzE0MzAxMTEsLTE2NTYy
-MjQzNjMsMTE2MTA3MDQ4MCwxOTY2OTkzNjEsLTE0NzM3NTI1MD
-MsLTEzMjgzMDA3NjEsOTM5OTc0MTYzLDEzNTMxMzY1NjksODQw
-NjkwMjU4LC0xNTUzOTgwMjcyLDIxMzM0MjQzNCwtMTU1Mzk4MD
-I3Miw2MTk2NjIwNjQsMzUzOTYyODc5LC0xMzU4NzY2NDA3LC00
-OTQ2NjMwNzVdfQ==
+eyJoaXN0b3J5IjpbMzkyMDkyNTU0LC00NzM5MDI5ODUsMTA5ND
+UyMjQ1MywtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMw
+MTExLC0xNjU2MjI0MzYzLDExNjEwNzA0ODAsMTk2Njk5MzYxLC
+0xNDczNzUyNTAzLC0xMzI4MzAwNzYxLDkzOTk3NDE2MywxMzUz
+MTM2NTY5LDg0MDY5MDI1OCwtMTU1Mzk4MDI3MiwyMTMzNDI0Mz
+QsLTE1NTM5ODAyNzIsNjE5NjYyMDY0LDM1Mzk2Mjg3OSwtMTM1
+ODc2NjQwN119
 -->
