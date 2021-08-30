@@ -117,6 +117,7 @@ anz_bst = liste_buchstaben.length - 1
 Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer/Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
 
 In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen.
+[Lektion 2 - Morsecode](https://dlpl-mb.github.io/baa_morse_code_01){:target="_blank"}
 
 #### Technische Metadaten
 <style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
@@ -125,11 +126,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM2MjQxOTMsMjA2ODcyNzI2NCwxND
-M3OTQ1ODAyLDEzMDMxNDA5ODMsLTEzODg4MDQ3MTUsMTg2NDY3
-NTg3OSw4NTYwNTIzMzksNDA2Mzg0NTI5LC02NDE3ODAyODcsLT
-EzOTE5Nzk4NTEsOTc2MzgwMDE3LC0xOTgyMzI2NTgzLDEyODUz
-Mjc3NDYsLTE1NjI0NjM3NzgsMzkyMDkyNTU0LC00NzM5MDI5OD
-UsMTA5NDUyMjQ1MywtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0x
-NDMxNDMwMTExXX0=
+eyJoaXN0b3J5IjpbLTQ3ODAzMjY4NywtMTYwMzYyNDE5MywyMD
+Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
+NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
+Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
+MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
+QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
+NTUwMDAwNjFdfQ==
 -->
