@@ -19,12 +19,12 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 * Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) dann nach jedem Wort.
-* **Nun leich eine Frage:** Welcher Buchstabe ist das? -.. oder dieser Buchstabe. 
-* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein A oder B oder C zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
+* **Nun gleich eine Frage:** Welcher Buchstabe ist das? `-..` oder dieser Buchstabe `..-.`  
+* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder C zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
 ## Programm 1: Codes anzeigen 
 
-Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für A bis G. 
+Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für `A` bis G. 
 
 **Die Aufgaben lautet:**
 
@@ -121,8 +121,8 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NjUwMjEwLDg0MDY5MDI1OCwtMTU1Mz
-k4MDI3MiwyMTMzNDI0MzQsLTE1NTM5ODAyNzIsNjE5NjYyMDY0
-LDM1Mzk2Mjg3OSwtMTM1ODc2NjQwNywtNDk0NjYzMDc1LC03Mz
-IxMTM5MDksMTU5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
+eyJoaXN0b3J5IjpbMjE0NjY3MDQyNCw4NDA2OTAyNTgsLTE1NT
+M5ODAyNzIsMjEzMzQyNDM0LC0xNTUzOTgwMjcyLDYxOTY2MjA2
+NCwzNTM5NjI4NzksLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNz
+MyMTEzOTA5LDE1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
 -->
