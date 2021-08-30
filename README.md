@@ -68,7 +68,7 @@ Du kannst nun am folgenden fertigen Programms noch experimentiert.
 * Verändere Variable und Zeiten
 * Beim Experimentieren an fremden Programmen kannst du viel lernen 
 
-[Programmcode 2](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
+[Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF "(target|_blank)")
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -117,7 +117,7 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4ODEwNTk0LC0xNTUzOTgwMjcyLDIxMz
+eyJoaXN0b3J5IjpbODI3NDI2NDAyLC0xNTUzOTgwMjcyLDIxMz
 M0MjQzNCwtMTU1Mzk4MDI3Miw2MTk2NjIwNjQsMzUzOTYyODc5
 LC0xMzU4NzY2NDA3LC00OTQ2NjMwNzUsLTczMjExMzkwOSwxNT
 kzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
