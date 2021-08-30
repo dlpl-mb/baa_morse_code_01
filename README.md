@@ -27,8 +27,8 @@ Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Cod
 
 **Die Aufgaben lautet:**
 
-* Taste A des Micro:bit zeigt die Buchstaben A bis G (Später nehmen wir alle anderen Buchstaben dazu.)
-* Taste B zeigt die Morse-Codes für diese Zeichen an 
+* `Taste A` des Micro:bit zeigt die Buchstaben A bis G (später nehmen wir alle anderen Buchstaben dazu.)
+* `Taste B` zeigt den Morse-Code für diese Zeichen an 
 * Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bit übertragen und somit Anderen senden kann.
 * Probiere das gleich mit dem Button "Dreieck" aus:
 <img width="40%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/dreieck.png?raw=1">
@@ -117,6 +117,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDY2MzA3NSwtNzMyMTEzOTA5LDE1OT
-MwOTA5ODgsLTE0NzgzMjc1NThdfQ==
+eyJoaXN0b3J5IjpbNzYxOTAxOTM1LC00OTQ2NjMwNzUsLTczMj
+ExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
 -->
