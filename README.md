@@ -15,8 +15,8 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1">
 
 * Wie du aus der Tabelle siehst haben Morsezeichen nur den **Punkte** und den **Striche**. Jeder Buchstabe hat einen bestimmte Kombination von Punkten und Strichen.
-* Schreib dir die Buchsstaben ersten **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code**
-* Beim Übertragen werden zwischen den Buchstaben immer eine kurze Pausen gemacht, damit der Empfänger weiß, dass nun ein neues Zeichen beginnt.
+* Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code**
+* Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - das hat den großen Vorteil, Beim Übertragen werden zwischen den Buchstaben immer eine kurze Pausen gemacht, damit der Empfänger weiß, dass nun ein neues Zeichen beginnt.
 * Meine Frage an dich: Welcher Buchstabe ist das? -.. oder dieser Buchstabe . 
 
 ## Programm 1: Codes anzeigen 
@@ -115,6 +115,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDgyNTIwMSwtNzMyMTEzOTA5LDE1OT
-MwOTA5ODgsLTE0NzgzMjc1NThdfQ==
+eyJoaXN0b3J5IjpbODc0MjMxNTgyLC03MzIxMTM5MDksMTU5Mz
+A5MDk4OCwtMTQ3ODMyNzU1OF19
 -->
