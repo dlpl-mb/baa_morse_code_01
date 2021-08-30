@@ -54,6 +54,8 @@ input.onButtonPressed(Button.B, () => {
 [Programmcode b3](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
 
+<a href="https://makecode.microbit.org/#pub:_dwP8X4TpY7oz" target="_blank">Hello, world!</a>
+
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -131,11 +133,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg4MDQ3MTUsMTg2NDY3NTg3OSw4NT
-YwNTIzMzksNDA2Mzg0NTI5LC02NDE3ODAyODcsLTEzOTE5Nzk4
-NTEsOTc2MzgwMDE3LC0xOTgyMzI2NTgzLDEyODUzMjc3NDYsLT
-E1NjI0NjM3NzgsMzkyMDkyNTU0LC00NzM5MDI5ODUsMTA5NDUy
-MjQ1MywtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMwMT
-ExLC0xNjU2MjI0MzYzLDExNjEwNzA0ODAsMTk2Njk5MzYxLC0x
-NDczNzUyNTAzXX0=
+eyJoaXN0b3J5IjpbMTMwMzE0MDk4MywtMTM4ODgwNDcxNSwxOD
+Y0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLTY0MTc4MDI4
+NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIzMjY1ODMsMT
+I4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NTQsLTQ3Mzkw
+Mjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEwNTUwMDAwNj
+EsLTE0MzE0MzAxMTEsLTE2NTYyMjQzNjMsMTE2MTA3MDQ4MCwx
+OTY2OTkzNjFdfQ==
 -->
