@@ -1,7 +1,7 @@
-<style>.page-header {font-size:1rem;height:10vh;padding-top:1.5rem}</style>
+
 # Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
-
+<style>.page-header {font-size:1rem;height:10vh;padding-top:1.5rem}</style>
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
 
@@ -117,7 +117,7 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NzkyNjE1LC0xMzU4NzY2NDA3LC00OT
-Q2NjMwNzUsLTczMjExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3
-NTU4XX0=
+eyJoaXN0b3J5IjpbLTEzMjg3MzU3MTcsLTEzNTg3NjY0MDcsLT
+Q5NDY2MzA3NSwtNzMyMTEzOTA5LDE1OTMwOTA5ODgsLTE0Nzgz
+Mjc1NThdfQ==
 -->
