@@ -45,11 +45,8 @@ input.onButtonPressed(Button.B, () => {
 ```
 * Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst das Demoprogramm für jeden Buchstaben umschreiben.
 
-[Programmcode b11](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
-[Programmcode b12](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
-<br>
+[Programmcode 1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
-[Programmcode b13](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -74,7 +71,7 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 Du kannst nun am folgenden fertigen Programms noch experimentiert. 
 * Verändere Variable und Zeiten
 * Beim Experimentieren an fremden Programmen kannst du viel lernen 
-* [Programmcode a2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF "(target|_blank)")
+* [Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -127,11 +124,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODcyNzI2NCwxNDM3OTQ1ODAyLDEzMD
-MxNDA5ODMsLTEzODg4MDQ3MTUsMTg2NDY3NTg3OSw4NTYwNTIz
-MzksNDA2Mzg0NTI5LC02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOT
-c2MzgwMDE3LC0xOTgyMzI2NTgzLDEyODUzMjc3NDYsLTE1NjI0
-NjM3NzgsMzkyMDkyNTU0LC00NzM5MDI5ODUsMTA5NDUyMjQ1My
-wtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMwMTExLC0x
-NjU2MjI0MzYzXX0=
+eyJoaXN0b3J5IjpbMTI2NTQxOTksMjA2ODcyNzI2NCwxNDM3OT
+Q1ODAyLDEzMDMxNDA5ODMsLTEzODg4MDQ3MTUsMTg2NDY3NTg3
+OSw4NTYwNTIzMzksNDA2Mzg0NTI5LC02NDE3ODAyODcsLTEzOT
+E5Nzk4NTEsOTc2MzgwMDE3LC0xOTgyMzI2NTgzLDEyODUzMjc3
+NDYsLTE1NjI0NjM3NzgsMzkyMDkyNTU0LC00NzM5MDI5ODUsMT
+A5NDUyMjQ1MywtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMx
+NDMwMTExXX0=
 -->
