@@ -48,12 +48,9 @@ input.onButtonPressed(Button.B, () => {
 [Programmcode b1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 <br>
 
-version2:
-[Programmcode 1b](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
+[Programmcode b2](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
-version3:
-[Programmcode b1]:https://makecode.microbit.org/#pub:_dwP8X4TpY7oz
-
+[Programmcode b3](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
 
 
@@ -134,11 +131,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2Mzg0NTI5LC02NDE3ODAyODcsLTEzOT
-E5Nzk4NTEsOTc2MzgwMDE3LC0xOTgyMzI2NTgzLDEyODUzMjc3
-NDYsLTE1NjI0NjM3NzgsMzkyMDkyNTU0LC00NzM5MDI5ODUsMT
-A5NDUyMjQ1MywtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMx
-NDMwMTExLC0xNjU2MjI0MzYzLDExNjEwNzA0ODAsMTk2Njk5Mz
-YxLC0xNDczNzUyNTAzLC0xMzI4MzAwNzYxLDkzOTk3NDE2Mywx
-MzUzMTM2NTY5XX0=
+eyJoaXN0b3J5IjpbODU2MDUyMzM5LDQwNjM4NDUyOSwtNjQxNz
+gwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMyNjU4
+MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NCwtND
+czOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1NTAw
+MDA2MSwtMTQzMTQzMDExMSwtMTY1NjIyNDM2MywxMTYxMDcwND
+gwLDE5NjY5OTM2MSwtMTQ3Mzc1MjUwMywtMTMyODMwMDc2MSw5
+Mzk5NzQxNjNdfQ==
 -->
