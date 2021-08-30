@@ -1,4 +1,4 @@
-# Das Morse-Alphabets
+# Das Morse-Alphabet
 ## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
@@ -117,7 +117,7 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjEwMDkzLDYxOTY2MjA2NCwzNTM5Nj
-I4NzksLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNzMyMTEzOTA5
-LDE1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
+eyJoaXN0b3J5IjpbLTEyMzkzMTgwNTQsNjE5NjYyMDY0LDM1Mz
+k2Mjg3OSwtMTM1ODc2NjQwNywtNDk0NjYzMDc1LC03MzIxMTM5
+MDksMTU5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
 -->
