@@ -42,7 +42,7 @@ input.onButtonPressed(Button.B, () => {
     basic.showString(".-");
 });
 ```
-* Schreib nun im Programmeditor (mit grafischen Programmier**Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G.
+* Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Derzeit sind das immer wieder neue Programme für jeden Buchstaben.
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -117,6 +117,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTYzNTE1NCwtNDk0NjYzMDc1LC03Mz
-IxMTM5MDksMTU5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
+eyJoaXN0b3J5IjpbNzkxMTQzNTEyLC00OTQ2NjMwNzUsLTczMj
+ExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
 -->
