@@ -140,10 +140,11 @@ anz_bst = liste_buchstaben.length - 1
 ```
 Experimentiere mit diesem Programm.
 
-### Dies war das schwierige Kapitel der Arrays - das war eine Profikapitel für Programmiere
+### Dies war das schwierige Kapitel der Arrays - das war eine Profikapitel für Programmierer/Programmierinnen.
+
 Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer/Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
 
-In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen.
+In der zweiten Lektion wirst du schon tiefer in das Programmieren einsteigen und das bisher gelernte anwenden.
 
 ## [Lektion 2 - Morsecode](https://dlpl-mb.github.io/baa_morse_code_02)
 
@@ -155,11 +156,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAwOTMxMzQsLTE2MDM2MjQxOTMsMj
-A2ODcyNzI2NCwxNDM3OTQ1ODAyLDEzMDMxNDA5ODMsLTEzODg4
-MDQ3MTUsMTg2NDY3NTg3OSw4NTYwNTIzMzksNDA2Mzg0NTI5LC
-02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOTc2MzgwMDE3LC0xOTgy
-MzI2NTgzLDEyODUzMjc3NDYsLTE1NjI0NjM3NzgsMzkyMDkyNT
-U0LC00NzM5MDI5ODUsMTA5NDUyMjQ1MywtMTM4NTkzMTk2MCwx
-MDU1MDAwMDYxXX0=
+eyJoaXN0b3J5IjpbMTY0MDU4MjQwMSwtMTYwMzYyNDE5MywyMD
+Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
+NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
+Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
+MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
+QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
+NTUwMDAwNjFdfQ==
 -->
