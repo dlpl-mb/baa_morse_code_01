@@ -109,7 +109,8 @@ liste_morsecodes = [
 ]
 anz_bst = liste_buchstaben.length - 1
 ```
-
+# Danke für eure Mitarbeit
+du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer/Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen 
 
 #### Technische Metadaten
 <style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
@@ -117,8 +118,8 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NDI2NDAyLC0xNTUzOTgwMjcyLDIxMz
-M0MjQzNCwtMTU1Mzk4MDI3Miw2MTk2NjIwNjQsMzUzOTYyODc5
-LC0xMzU4NzY2NDA3LC00OTQ2NjMwNzUsLTczMjExMzkwOSwxNT
-kzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
+eyJoaXN0b3J5IjpbLTE1MDk3ODQxNSwtMTU1Mzk4MDI3MiwyMT
+MzNDI0MzQsLTE1NTM5ODAyNzIsNjE5NjYyMDY0LDM1Mzk2Mjg3
+OSwtMTM1ODc2NjQwNywtNDk0NjYzMDc1LC03MzIxMTM5MDksMT
+U5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
 -->
