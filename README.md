@@ -29,8 +29,8 @@ Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Cod
 
 * `Taste A` des Micro:bit zeigt die Buchstaben A bis G (später nehmen wir alle anderen Buchstaben dazu.)
 * `Taste B` zeigt den Morse-Code für diese Zeichen an 
-* Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bit übertragen und somit Anderen senden kann.
-* Probiere das gleich mit dem Button "Dreieck" aus:
+* Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bit übertragen und somit Anderen senden kannst.
+* Wenn du dieses Programm bereits im Micro:bit geöffnet hast - dann probiere das gleich mit dem Button "Dreieck" aus:
 <img width="40%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/dreieck.png?raw=1">
 
 ```blocks
@@ -42,7 +42,7 @@ input.onButtonPressed(Button.B, () => {
     basic.showString(".-");
 });
 ```
-* Schreib nun im Programmeditor (Button **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G.
+* Schreib nun im Programmeditor (mit grafischen Programmier**Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G.
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -117,6 +117,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxOTAxOTM1LC00OTQ2NjMwNzUsLTczMj
-ExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
+eyJoaXN0b3J5IjpbMTQ1NTYzNTE1NCwtNDk0NjYzMDc1LC03Mz
+IxMTM5MDksMTU5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
 -->
