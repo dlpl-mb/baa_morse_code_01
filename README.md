@@ -55,14 +55,36 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 * Wir müssen alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste** 
 * Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
-* Lege dort 2 Text-Listen an: liste buchstaben und  `liste_morsecodes`
-* Vervollständige die Buchstaben von "A" bis "G"
+* Lege dort 2 Text-Listen an: `liste buchstaben` und  `liste_morsecodes` (siehe unten)
+* Vervollständige die Eintragungen von "A" bis "G"
 
 ### Speicherung der Buchstaben 
 
 * Um auf ein Element dieser Liste zuzugreifen, muss du den **Index** (Reihungsnummer ) innerhalb der liste angeben.
 * Beachte: Eine Liste beginnt in fast allen Programmiersprachen immer mit dem Element Nr. 0, dann 1 bis zum letzten element, das hat dann die Nummer 6 (unsere Liste von A bis G). Das ist sicher sehr gewöhnungsbedürftig - man sollte sich das möglichst schnell angewöhnen und anwenden. 
+```blocks
+liste_buchstaben = [
+"A",
+"B",
+"C",
+"D",
+"E",
+"F",
+"G"
+]
+liste_morsecodes = [
+".-",
+"-...",
+"-.-.",
+"-..",
+".",
+"..-.",
+"--."
+]
 
+let liste_morsecodes: string[] = []
+let liste_buchstaben: string[] = []
+```
 ### Darstellung der Buchstaben 
 
 * Wir benötigen eine Schleife von 0 bis 6
@@ -128,7 +150,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA3NDU5NiwtMTYwMzYyNDE5MywyMD
+eyJoaXN0b3J5IjpbLTQ0MDkyODQxMSwtMTYwMzYyNDE5MywyMD
 Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
 NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
 Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
