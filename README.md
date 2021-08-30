@@ -47,7 +47,6 @@ input.onButtonPressed(Button.B, () => {
 
 [Programmcode b11](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
-
 [Programmcode b12](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 <br>
 
@@ -129,7 +128,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYyNTM4MjAsMTQzNzk0NTgwMiwxMz
+eyJoaXN0b3J5IjpbLTEzODExOTk2OTQsMTQzNzk0NTgwMiwxMz
 AzMTQwOTgzLC0xMzg4ODA0NzE1LDE4NjQ2NzU4NzksODU2MDUy
 MzM5LDQwNjM4NDUyOSwtNjQxNzgwMjg3LC0xMzkxOTc5ODUxLD
 k3NjM4MDAxNywtMTk4MjMyNjU4MywxMjg1MzI3NzQ2LC0xNTYy
