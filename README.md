@@ -140,7 +140,7 @@ anz_bst = liste_buchstaben.length - 1
 ```
 Experimentiere mit diesem Programm.
 
-### Dies war das schwierige Kapitel der Arrays - das ist immer ein Profikapitel für Programmierer\/Programmierinnen.
+### Dies war das schwierige Kapitel der Arrays - das ist immer ein Profikapitel für Programmierer/Programmierinnen.
 
 Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer/Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
 
@@ -156,11 +156,11 @@ In der zweiten Lektion wirst du schon tiefer in das Programmieren einsteigen und
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODcxNDI0LC0xNjAzNjI0MTkzLDIwNj
-g3MjcyNjQsMTQzNzk0NTgwMiwxMzAzMTQwOTgzLC0xMzg4ODA0
-NzE1LDE4NjQ2NzU4NzksODU2MDUyMzM5LDQwNjM4NDUyOSwtNj
-QxNzgwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMy
-NjU4MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NC
-wtNDczOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1
-NTAwMDA2MV19
+eyJoaXN0b3J5IjpbMTk2NzMxOTE2OCwtMTYwMzYyNDE5MywyMD
+Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
+NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
+Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
+MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
+QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
+NTUwMDAwNjFdfQ==
 -->
