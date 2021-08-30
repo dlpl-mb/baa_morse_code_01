@@ -95,8 +95,7 @@ liste_morsecodes = [
 * Innerhalb der Schleife zeigen wir mit einer **Laufvariable** - wir nennen sie hier **index** auf jeweils ein Element.
 
 Du kannst nun am folgenden fertigen Programms noch experimentiert. 
-* Verändere Variable und Zeiten
-* Beim Experimentieren an fremden Programmen kannst du viel lernen
+* Verändere Variable und deren Inhalte
  
 [Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
 
@@ -139,6 +138,8 @@ liste_morsecodes = [
 ]
 anz_bst = liste_buchstaben.length - 1
 ```
+Experimentiere mit d
+
 # Danke für eure Mitarbeit
 Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer/Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
 
@@ -154,7 +155,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEwNzMwMjIsLTE2MDM2MjQxOTMsMj
+eyJoaXN0b3J5IjpbLTE5NTc2OTIyNzcsLTE2MDM2MjQxOTMsMj
 A2ODcyNzI2NCwxNDM3OTQ1ODAyLDEzMDMxNDA5ODMsLTEzODg4
 MDQ3MTUsMTg2NDY3NTg3OSw4NTYwNTIzMzksNDA2Mzg0NTI5LC
 02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOTc2MzgwMDE3LC0xOTgy
