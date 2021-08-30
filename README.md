@@ -1,4 +1,5 @@
-# Geheimzeichen: Das Morse-Alphabet I
+# Das Morse-Alphabet
+## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
@@ -116,7 +117,7 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzg2NTc3NSwtMTM1ODc2NjQwNywtND
-k0NjYzMDc1LC03MzIxMTM5MDksMTU5MzA5MDk4OCwtMTQ3ODMy
-NzU1OF19
+eyJoaXN0b3J5IjpbMzUzOTYyODc5LC0xMzU4NzY2NDA3LC00OT
+Q2NjMwNzUsLTczMjExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3
+NTU4XX0=
 -->
