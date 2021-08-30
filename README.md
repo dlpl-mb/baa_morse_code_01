@@ -48,7 +48,8 @@ input.onButtonPressed(Button.B, () => {
 [Programmcode b11](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 <br>
 
-[Programmcode b12](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")<br>
+[Programmcode b12](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
+<br>
 
 [Programmcode b3](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
@@ -130,11 +131,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDY3NTg3OSw4NTYwNTIzMzksNDA2Mz
-g0NTI5LC02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOTc2MzgwMDE3
-LC0xOTgyMzI2NTgzLDEyODUzMjc3NDYsLTE1NjI0NjM3NzgsMz
-kyMDkyNTU0LC00NzM5MDI5ODUsMTA5NDUyMjQ1MywtMTM4NTkz
-MTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMwMTExLC0xNjU2MjI0Mz
-YzLDExNjEwNzA0ODAsMTk2Njk5MzYxLC0xNDczNzUyNTAzLC0x
-MzI4MzAwNzYxXX0=
+eyJoaXN0b3J5IjpbLTEzODg4MDQ3MTUsMTg2NDY3NTg3OSw4NT
+YwNTIzMzksNDA2Mzg0NTI5LC02NDE3ODAyODcsLTEzOTE5Nzk4
+NTEsOTc2MzgwMDE3LC0xOTgyMzI2NTgzLDEyODUzMjc3NDYsLT
+E1NjI0NjM3NzgsMzkyMDkyNTU0LC00NzM5MDI5ODUsMTA5NDUy
+MjQ1MywtMTM4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMwMT
+ExLC0xNjU2MjI0MzYzLDExNjEwNzA0ODAsMTk2Njk5MzYxLC0x
+NDczNzUyNTAzXX0=
 -->
