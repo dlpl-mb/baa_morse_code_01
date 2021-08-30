@@ -58,13 +58,13 @@ Zugegeben: Das war ganz schön aufwändig, für jeden Buchstaben immer ein eigen
 * Lege dort 2 Text-Listen an: `liste buchstaben` und  `liste_morsecodes` (siehe unten)
 * Vervollständige die Eintragungen von "A" bis "G"
 
-### Speicherung der Buchstaben 
+### Speicherung der Buchstaben (sehr schwierig)
 
 * Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer ) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element
 * **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G)
 * Die höchste Nummer ist immer **Anzahl der Elemente - 1**
 * Das ist sicher sehr gewöhnungsbedürftig - man sollte sich das möglichst schnell angewöhnen und anwenden. 
-* Wie du unten im Beispiel ersehen kannst, werden die Indizes von 0 bis ... immer automatisch v
+* Wie du unten im Beispiel ersehen kannst, werden die Indizes von 0 bis ... immer automatisch verteilt und du brauchst die Elemente nur der Reihe nach mit Beistrichen getrennt angeben. Handelt es sich um Texte, so sind diese in Anführungszeichen einzuschließen.
 ```blocks
 let liste_morsecodes: string[] = []
 let liste_buchstaben: string[] = []
@@ -154,11 +154,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTQzOTk0MSwtMTYwMzYyNDE5MywyMD
-Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
-NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
-Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
-MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
-QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
-NTUwMDAwNjFdfQ==
+eyJoaXN0b3J5IjpbLTExODEwNzMwMjIsLTE2MDM2MjQxOTMsMj
+A2ODcyNzI2NCwxNDM3OTQ1ODAyLDEzMDMxNDA5ODMsLTEzODg4
+MDQ3MTUsMTg2NDY3NTg3OSw4NTYwNTIzMzksNDA2Mzg0NTI5LC
+02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOTc2MzgwMDE3LC0xOTgy
+MzI2NTgzLDEyODUzMjc3NDYsLTE1NjI0NjM3NzgsMzkyMDkyNT
+U0LC00NzM5MDI5ODUsMTA5NDUyMjQ1MywtMTM4NTkzMTk2MCwx
+MDU1MDAwMDYxXX0=
 -->
