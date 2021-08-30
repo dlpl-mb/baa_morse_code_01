@@ -41,7 +41,8 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 * Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst das Demoprogramm für jeden Buchstaben umschreiben.
-* [Programmcode 1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
+
+[Programmcode 1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
@@ -63,11 +64,11 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 * Wir benötigen eine Schleife von 0 bis 6
 * Innerhalb der Schleife zeigen wir mit einer **Laufvariable** - wir nennen sie hier **index** auf jeweils ein Element.
 
-
-## Fertiges Programm: Morse-Alphabet II
 Du kannst nun am folgenden fertigen Programms noch experimentiert. 
 * Verändere Variable und Zeiten
 * Beim Experimentieren an fremden Programmen kannst du viel lernen 
+
+[Programmcode 2](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -116,8 +117,8 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg4MjAzNTcsLTE1NTM5ODAyNzIsMj
-EzMzQyNDM0LC0xNTUzOTgwMjcyLDYxOTY2MjA2NCwzNTM5NjI4
-NzksLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNzMyMTEzOTA5LD
-E1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
+eyJoaXN0b3J5IjpbODU4ODEwNTk0LC0xNTUzOTgwMjcyLDIxMz
+M0MjQzNCwtMTU1Mzk4MDI3Miw2MTk2NjIwNjQsMzUzOTYyODc5
+LC0xMzU4NzY2NDA3LC00OTQ2NjMwNzUsLTczMjExMzkwOSwxNT
+kzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
 -->
