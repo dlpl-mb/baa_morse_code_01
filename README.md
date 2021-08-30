@@ -1,6 +1,7 @@
 # Das Morse-Alphabet
 ## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
+
 Wenn du neu bist im Bereich Micro:bit, dann empfehle ich dir das [Schulbuch zum Micro:bit](https://microbit.eeducation.at/wiki/Hauptseite "(target|_blank)") zum Einarbeiten in diesen fabelhaften Kleincomputer. Diese Lektion benötigt bereits ein wenig Grundwissen in BBC micro:bit. Wichtig ist auch, dass ihr immer im Team zu zweit arbeitet.
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
@@ -121,8 +122,9 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzEzNjU2OSw4NDA2OTAyNTgsLTE1NT
-M5ODAyNzIsMjEzMzQyNDM0LC0xNTUzOTgwMjcyLDYxOTY2MjA2
-NCwzNTM5NjI4NzksLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNz
-MyMTEzOTA5LDE1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
+eyJoaXN0b3J5IjpbLTEzMjgzMDA3NjEsMTM1MzEzNjU2OSw4ND
+A2OTAyNTgsLTE1NTM5ODAyNzIsMjEzMzQyNDM0LC0xNTUzOTgw
+MjcyLDYxOTY2MjA2NCwzNTM5NjI4NzksLTEzNTg3NjY0MDcsLT
+Q5NDY2MzA3NSwtNzMyMTEzOTA5LDE1OTMwOTA5ODgsLTE0Nzgz
+Mjc1NThdfQ==
 -->
