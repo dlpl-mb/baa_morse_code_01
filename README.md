@@ -1,4 +1,4 @@
-# Das Morse-Alphabetx
+# Das Morse-Alphabet
 ## Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
@@ -131,11 +131,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MDUyMzM5LDQwNjM4NDUyOSwtNjQxNz
-gwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMyNjU4
-MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NCwtND
-czOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1NTAw
-MDA2MSwtMTQzMTQzMDExMSwtMTY1NjIyNDM2MywxMTYxMDcwND
-gwLDE5NjY5OTM2MSwtMTQ3Mzc1MjUwMywtMTMyODMwMDc2MSw5
-Mzk5NzQxNjNdfQ==
+eyJoaXN0b3J5IjpbMTMxMzkzMTkzNyw4NTYwNTIzMzksNDA2Mz
+g0NTI5LC02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOTc2MzgwMDE3
+LC0xOTgyMzI2NTgzLDEyODUzMjc3NDYsLTE1NjI0NjM3NzgsMz
+kyMDkyNTU0LC00NzM5MDI5ODUsMTA5NDUyMjQ1MywtMTM4NTkz
+MTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMwMTExLC0xNjU2MjI0Mz
+YzLDExNjEwNzA0ODAsMTk2Njk5MzYxLC0xNDczNzUyNTAzLC0x
+MzI4MzAwNzYxXX0=
 -->
