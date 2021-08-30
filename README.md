@@ -16,10 +16,10 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1">
 
 * Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Kodieren. Jeder Buchstabe besteht aus einer bestimmte Kombination aus Punkten und Strichen.
-* Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir zu diesen ersten Übungen nur wenige Buchstaben.
+* Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
-* Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) nach jedem Wort.
-* **Gleich eine Frage:** Welcher Buchstabe ist das? -.. oder dieser Buchstabe. 
+* Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) dann nach jedem Wort.
+* **Nun leich eine Frage:** Welcher Buchstabe ist das? -.. oder dieser Buchstabe. 
 * Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein A oder B oder C zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
 ## Programm 1: Codes anzeigen 
@@ -121,8 +121,8 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU2MzU5MTMsODQwNjkwMjU4LC0xNT
-UzOTgwMjcyLDIxMzM0MjQzNCwtMTU1Mzk4MDI3Miw2MTk2NjIw
-NjQsMzUzOTYyODc5LC0xMzU4NzY2NDA3LC00OTQ2NjMwNzUsLT
-czMjExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
+eyJoaXN0b3J5IjpbNzQ2NjUwMjEwLDg0MDY5MDI1OCwtMTU1Mz
+k4MDI3MiwyMTMzNDI0MzQsLTE1NTM5ODAyNzIsNjE5NjYyMDY0
+LDM1Mzk2Mjg3OSwtMTM1ODc2NjQwNywtNDk0NjYzMDc1LC03Mz
+IxMTM5MDksMTU5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
 -->
