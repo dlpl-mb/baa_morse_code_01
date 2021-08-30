@@ -112,12 +112,12 @@ anz_bst = liste_buchstaben.length - 1
 
 
 #### Technische Metadaten
-<style>.page-header {font-size:0.5rem;height:0vh;xpadding-top:1.5rem}</style>
+<style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkzMTgwNTQsNjE5NjYyMDY0LDM1Mz
+eyJoaXN0b3J5IjpbLTE1NTM5ODAyNzIsNjE5NjYyMDY0LDM1Mz
 k2Mjg3OSwtMTM1ODc2NjQwNywtNDk0NjYzMDc1LC03MzIxMTM5
 MDksMTU5MzA5MDk4OCwtMTQ3ODMyNzU1OF19
 -->
