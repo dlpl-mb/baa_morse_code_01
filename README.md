@@ -69,7 +69,7 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 Du kannst nun am folgenden fertigen Programms noch experimentiert. 
 * Verändere Variable und Zeiten
 * Beim Experimentieren an fremden Programmen kannst du viel lernen 
-* [Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF "(target|_blank)")
+* [Programmcode a2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF "(target|_blank)")
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -121,11 +121,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM5MTYzMSwxMDk0NTIyNDUzLC0xMz
-g1OTMxOTYwLDEwNTUwMDAwNjEsLTE0MzE0MzAxMTEsLTE2NTYy
-MjQzNjMsMTE2MTA3MDQ4MCwxOTY2OTkzNjEsLTE0NzM3NTI1MD
-MsLTEzMjgzMDA3NjEsOTM5OTc0MTYzLDEzNTMxMzY1NjksODQw
-NjkwMjU4LC0xNTUzOTgwMjcyLDIxMzM0MjQzNCwtMTU1Mzk4MD
-I3Miw2MTk2NjIwNjQsMzUzOTYyODc5LC0xMzU4NzY2NDA3LC00
-OTQ2NjMwNzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY3OTQ2NzIsMTA5NDUyMjQ1MywtMT
+M4NTkzMTk2MCwxMDU1MDAwMDYxLC0xNDMxNDMwMTExLC0xNjU2
+MjI0MzYzLDExNjEwNzA0ODAsMTk2Njk5MzYxLC0xNDczNzUyNT
+AzLC0xMzI4MzAwNzYxLDkzOTk3NDE2MywxMzUzMTM2NTY5LDg0
+MDY5MDI1OCwtMTU1Mzk4MDI3MiwyMTMzNDI0MzQsLTE1NTM5OD
+AyNzIsNjE5NjYyMDY0LDM1Mzk2Mjg3OSwtMTM1ODc2NjQwNywt
+NDk0NjYzMDc1XX0=
 -->
