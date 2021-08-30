@@ -142,7 +142,7 @@ Experimentiere mit diesem Programm.
 
 ### Dies war das schwierige Kapitel der Arrays - das ist immer ein Profikapitel für Programmierer und Programmierinnen.
 
-Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer/Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
+Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer / eurer Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
 
 In der zweiten Lektion wirst du schon tiefer in das Programmieren einsteigen und das bisher gelernte anwenden.
 
@@ -156,7 +156,7 @@ In der zweiten Lektion wirst du schon tiefer in das Programmieren einsteigen und
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mzc0ODAzOCwtMTYwMzYyNDE5MywyMD
+eyJoaXN0b3J5IjpbMTM3MDUwNjkyNSwtMTYwMzYyNDE5MywyMD
 Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
 NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
 Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
