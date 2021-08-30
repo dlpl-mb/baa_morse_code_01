@@ -1,6 +1,6 @@
 # Geheimzeichen: Das Morse-Alphabet I
 **Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
-<style>.page-header {font-size:1rem;height:10vh;padding-top:1.5rem}</style>
+
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
 
@@ -114,9 +114,9 @@ anz_bst = liste_buchstaben.length - 1
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
-
+<style>.page-header {font-size:1rem;height:10vh;padding-top:1.5rem}</style>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTM2NzAyMSwtMTM1ODc2NjQwNywtND
+eyJoaXN0b3J5IjpbMTY1NTc3NDE3OSwtMTM1ODc2NjQwNywtND
 k0NjYzMDc1LC03MzIxMTM5MDksMTU5MzA5MDk4OCwtMTQ3ODMy
 NzU1OF19
 -->
