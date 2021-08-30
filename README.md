@@ -63,6 +63,9 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 * Um auf ein Element dieser Liste zuzugreifen, muss du den **Index** (Reihungsnummer ) innerhalb der liste angeben.
 * Beachte: Eine Liste beginnt in fast allen Programmiersprachen immer mit dem Element Nr. 0, dann 1 bis zum letzten element, das hat dann die Nummer 6 (unsere Liste von A bis G). Das ist sicher sehr gewöhnungsbedürftig - man sollte sich das möglichst schnell angewöhnen und anwenden. 
 ```blocks
+let liste_morsecodes: string[] = []
+let liste_buchstaben: string[] = []
+
 liste_buchstaben = [
 "A",
 "B",
@@ -82,8 +85,6 @@ liste_morsecodes = [
 "--."
 ]
 
-let liste_morsecodes: string[] = []
-let liste_buchstaben: string[] = []
 ```
 ### Darstellung der Buchstaben 
 
@@ -150,11 +151,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDkyODQxMSwtMTYwMzYyNDE5MywyMD
-Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
-NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
-Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
-MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
-QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
-NTUwMDAwNjFdfQ==
+eyJoaXN0b3J5IjpbNjg0MDE2NTAzLC0xNjAzNjI0MTkzLDIwNj
+g3MjcyNjQsMTQzNzk0NTgwMiwxMzAzMTQwOTgzLC0xMzg4ODA0
+NzE1LDE4NjQ2NzU4NzksODU2MDUyMzM5LDQwNjM4NDUyOSwtNj
+QxNzgwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMy
+NjU4MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NC
+wtNDczOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1
+NTAwMDA2MV19
 -->
