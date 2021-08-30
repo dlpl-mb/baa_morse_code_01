@@ -5,9 +5,9 @@
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1">
 
 
-Wir werden uns nun einen Geheimsprache ansehen - das ** Morse-Alphabet **. Es diente jahrzehntelang zum Übertragen von Nachrichten und wurde inzwischen in vielen Bereichen von technisch aufwendigen Verfahren abgelöst.
-Inzwischen gibt es unzählige Codes, die sogar noch zusätzlich verschlüsselt werden, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicherer übermittelt werden können.
-Du wirst nun diese wichtige Morsealphabet kennenlernen.
+Wir werden uns nun einen Geheimsprache ansehen - das ** Morse-Alphabet **. Es diente jahrzehntelang zum Übertragen von Nachrichten und wurde inzwischen in vielen Bereichen von technisch aufwendigen Verfahren weiterentwickelt.
+Inzwischen gibt es unzählige Codes, die sogar noch zusätzlich verschlüsselt werden, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicher übermittelt werden können.
+Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Ein umfangreiche Information zum  Morse
 
 ## Die Zeichen des Morsealphabets
 Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über elektrische Leitungen übermitteln. Wichtig ist dabei, dass jeder Buchstabe, jede Ziffer genau einem Code entspricht.
@@ -115,6 +115,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjExMzkwOSwxNTkzMDkwOTg4LC0xND
-c4MzI3NTU4XX0=
+eyJoaXN0b3J5IjpbLTEzNTkxNzQxNDEsLTczMjExMzkwOSwxNT
+kzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
 -->
