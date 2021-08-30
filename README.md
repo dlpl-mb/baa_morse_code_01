@@ -10,12 +10,12 @@ Inzwischen gibt es unzählige Codes, die sogar noch zusätzlich verschlüsselt w
 Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Ein umfangreiche Information zum Morsecode erhältst du in [Wikipedia](https://de.wikipedia.org/wiki/Morsecode "(target|_blank)").
 
 ## Die Zeichen des Morsealphabets
-Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über elektrische Leitungen übermitteln. Wichtig ist dabei, dass jeder Buchstabe, jede Ziffer genau einem Code entspricht.
+Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über elektrische Leitungen übermitteln. Wichtig dabei ist, dass jeder Buchstabe, jede Ziffer genau einem Code entspricht.
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1">
 
 * Wie du aus der Tabelle siehst haben Morsezeichen nur den **Punkte** und den **Striche**. Jeder Buchstabe hat einen bestimmte Kombination von Punkten und Strichen.
-* Schreib dir die Buchsstaben ersten ** A bis G ** auf ein Blatt Papier heraus: **Buchstabe** und **Code**
+* Schreib dir die Buchsstaben ersten **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code**
 * Beim Übertragen werden zwischen den Buchstaben immer eine kurze Pausen gemacht, damit der Empfänger weiß, dass nun ein neues Zeichen beginnt.
 * Meine Frage an dich: Welcher Buchstabe ist das? -.. oder dieser Buchstabe . 
 
@@ -115,6 +115,6 @@ anz_bst = liste_buchstaben.length - 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI1ODQ0NTcsLTczMjExMzkwOSwxNT
-kzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
+eyJoaXN0b3J5IjpbLTk4NDgyNTIwMSwtNzMyMTEzOTA5LDE1OT
+MwOTA5ODgsLTE0NzgzMjc1NThdfQ==
 -->
