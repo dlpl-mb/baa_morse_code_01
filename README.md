@@ -15,7 +15,7 @@ Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1">
 
-* Wie du aus der Tabelle siehst haben Morsezeichen nur den **Punkte** und den **Striche**. Jeder Buchstabe hat einen bestimmte Kombination von Punkten und Strichen.
+* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Kodieren. Jeder Buchstabe besteht aus einer bestimmte Kombination aus Punkten und Strichen.
 * Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir zu diesen ersten Übungen nur wenige Buchstaben.
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) nach jedem Wort.
@@ -121,8 +121,8 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTM3ODcxOCw4NDA2OTAyNTgsLTE1NT
-M5ODAyNzIsMjEzMzQyNDM0LC0xNTUzOTgwMjcyLDYxOTY2MjA2
-NCwzNTM5NjI4NzksLTEzNTg3NjY0MDcsLTQ5NDY2MzA3NSwtNz
-MyMTEzOTA5LDE1OTMwOTA5ODgsLTE0NzgzMjc1NThdfQ==
+eyJoaXN0b3J5IjpbLTE3MjU2MzU5MTMsODQwNjkwMjU4LC0xNT
+UzOTgwMjcyLDIxMzM0MjQzNCwtMTU1Mzk4MDI3Miw2MTk2NjIw
+NjQsMzUzOTYyODc5LC0xMzU4NzY2NDA3LC00OTQ2NjMwNzUsLT
+czMjExMzkwOSwxNTkzMDkwOTg4LC0xNDc4MzI3NTU4XX0=
 -->
