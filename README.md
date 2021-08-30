@@ -118,7 +118,7 @@ Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer/eurer
 
 In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen.
 
-## [Lektion 2 - Morsecode](https://dlpl-mb.github.io/baa_morse_code_01)
+## [Lektion 2 - Morsecode](https://dlpl-mb.github.io/baa_morse_code_02)
 
 
 
@@ -128,11 +128,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk1ODIyNTUsLTE2MDM2MjQxOTMsMj
-A2ODcyNzI2NCwxNDM3OTQ1ODAyLDEzMDMxNDA5ODMsLTEzODg4
-MDQ3MTUsMTg2NDY3NTg3OSw4NTYwNTIzMzksNDA2Mzg0NTI5LC
-02NDE3ODAyODcsLTEzOTE5Nzk4NTEsOTc2MzgwMDE3LC0xOTgy
-MzI2NTgzLDEyODUzMjc3NDYsLTE1NjI0NjM3NzgsMzkyMDkyNT
-U0LC00NzM5MDI5ODUsMTA5NDUyMjQ1MywtMTM4NTkzMTk2MCwx
-MDU1MDAwMDYxXX0=
+eyJoaXN0b3J5IjpbOTYxOTQ3MjgyLC0xNjAzNjI0MTkzLDIwNj
+g3MjcyNjQsMTQzNzk0NTgwMiwxMzAzMTQwOTgzLC0xMzg4ODA0
+NzE1LDE4NjQ2NzU4NzksODU2MDUyMzM5LDQwNjM4NDUyOSwtNj
+QxNzgwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMy
+NjU4MywxMjg1MzI3NzQ2LC0xNTYyNDYzNzc4LDM5MjA5MjU1NC
+wtNDczOTAyOTg1LDEwOTQ1MjI0NTMsLTEzODU5MzE5NjAsMTA1
+NTAwMDA2MV19
 -->
