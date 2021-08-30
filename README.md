@@ -45,7 +45,8 @@ input.onButtonPressed(Button.B, () => {
 ```
 * Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst das Demoprogramm für jeden Buchstaben umschreiben.
 
-[Programmcode b1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")<hr>
+[Programmcode b1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
+<hr>
 
 version2:
 [Programmcode b1]:https://makecode.microbit.org/#pub:_dwP8X4TpY7oz
@@ -133,7 +134,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTExOTU3NSw5NzYzODAwMTcsLTE5OD
+eyJoaXN0b3J5IjpbLTY1MTE2MDM4OSw5NzYzODAwMTcsLTE5OD
 IzMjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1
 NTQsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLD
 EwNTUwMDAwNjEsLTE0MzE0MzAxMTEsLTE2NTYyMjQzNjMsMTE2
