@@ -51,7 +51,7 @@ input.onButtonPressed(Button.B, () => {
 ## Programm 2: Alle sechs Buchstaben in ein Programm
 
 Zugegeben: Das war ganz schön aufwändig, für jeden Buchstaben immer ein eigenes Programm zu schreiben.
-Wir packen nun alles 7 Buchstaben in ein Programm:
+**Wir packen nun alles 7 Buchstaben in ein Programm:**
 * Wir müssen alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste** 
 * Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
@@ -60,7 +60,7 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 
 ### Speicherung der Buchstaben 
 
-* Um auf ein Element dieser Liste zuzugreifen, muss du den **Index** (Reihungsnummer ) innerhalb der liste angeben.
+* Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer ) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element
 * Beachte: Eine Liste beginnt in fast allen Programmiersprachen immer mit dem Element Nr. 0, dann 1 bis zum letzten element, das hat dann die Nummer 6 (unsere Liste von A bis G). Das ist sicher sehr gewöhnungsbedürftig - man sollte sich das möglichst schnell angewöhnen und anwenden. 
 ```blocks
 let liste_morsecodes: string[] = []
@@ -151,7 +151,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MDE2NTAzLC0xNjAzNjI0MTkzLDIwNj
+eyJoaXN0b3J5IjpbNTEwNDgzMjg1LC0xNjAzNjI0MTkzLDIwNj
 g3MjcyNjQsMTQzNzk0NTgwMiwxMzAzMTQwOTgzLC0xMzg4ODA0
 NzE1LDE4NjQ2NzU4NzksODU2MDUyMzM5LDQwNjM4NDUyOSwtNj
 QxNzgwMjg3LC0xMzkxOTc5ODUxLDk3NjM4MDAxNywtMTk4MjMy
