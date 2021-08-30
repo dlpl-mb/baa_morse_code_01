@@ -55,7 +55,7 @@ Wir packen nun alles 7 Buchstaben in ein Programm:
 * Wir müssen alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste** 
 * Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
-* Lege dort 2 Listen an: zwei Ändere den Variablen auf Buchstabenliste
+* Lege dort 2 Text-Listen an: liste buchstaben und  `liste_morsecodes`
 * Vervollständige die Buchstaben von "A" bis "G"
 
 ### Speicherung der Buchstaben 
@@ -128,7 +128,7 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODc2ODc1NSwtMTYwMzYyNDE5MywyMD
+eyJoaXN0b3J5IjpbLTExNDA3NDU5NiwtMTYwMzYyNDE5MywyMD
 Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
 NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
 Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
