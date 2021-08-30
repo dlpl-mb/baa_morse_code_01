@@ -47,7 +47,7 @@ input.onButtonPressed(Button.B, () => {
 
 [Programmcode b1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz "(target|_blank)")
 
-
+sss
 [Programmcode b1]:https://makecode.microbit.org/#pub:_dwP8X4TpY7oz
 
 ## Programm 2: Alle sechs Buchstaben in ein Programm
@@ -126,11 +126,11 @@ In der zweiten Lektion wirst du nun schon tiefer in das Programmieren einsteigen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOT
-IwOTI1NTQsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMx
-OTYwLDEwNTUwMDAwNjEsLTE0MzE0MzAxMTEsLTE2NTYyMjQzNj
-MsMTE2MTA3MDQ4MCwxOTY2OTkzNjEsLTE0NzM3NTI1MDMsLTEz
-MjgzMDA3NjEsOTM5OTc0MTYzLDEzNTMxMzY1NjksODQwNjkwMj
-U4LC0xNTUzOTgwMjcyLDIxMzM0MjQzNCwtMTU1Mzk4MDI3Miw2
-MTk2NjIwNjRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODIzMjY1ODMsMTI4NTMyNzc0NiwtMT
+U2MjQ2Mzc3OCwzOTIwOTI1NTQsLTQ3MzkwMjk4NSwxMDk0NTIy
+NDUzLC0xMzg1OTMxOTYwLDEwNTUwMDAwNjEsLTE0MzE0MzAxMT
+EsLTE2NTYyMjQzNjMsMTE2MTA3MDQ4MCwxOTY2OTkzNjEsLTE0
+NzM3NTI1MDMsLTEzMjgzMDA3NjEsOTM5OTc0MTYzLDEzNTMxMz
+Y1NjksODQwNjkwMjU4LC0xNTUzOTgwMjcyLDIxMzM0MjQzNCwt
+MTU1Mzk4MDI3Ml19
 -->
