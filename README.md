@@ -123,24 +123,7 @@ let anz_bst = 0
 let liste_morsecodes: string[] = []
 let liste_buchstaben: string[] = []
 basic.showIcon(IconNames.Yes)
-liste_buchstaben = [
-"A",
-"B",
-"C",
-"D",
-"E",
-"F",
-"G"
-]
-liste_morsecodes = [
-".-",
-"-...",
-"-.-.",
-"-..",
-".",
-"..-.",
-"--."
-]
+
 anz_bst = liste_buchstaben.length - 1
 ```
 
@@ -157,13 +140,3 @@ In der zweiten Lektion wirst du schon tiefer in das Programmieren einsteigen und
 <style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
 <script src="https://makecode.com/gh-pages-embed.js"></script>
 <script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDUwNjkyNSwtMTYwMzYyNDE5MywyMD
-Y4NzI3MjY0LDE0Mzc5NDU4MDIsMTMwMzE0MDk4MywtMTM4ODgw
-NDcxNSwxODY0Njc1ODc5LDg1NjA1MjMzOSw0MDYzODQ1MjksLT
-Y0MTc4MDI4NywtMTM5MTk3OTg1MSw5NzYzODAwMTcsLTE5ODIz
-MjY1ODMsMTI4NTMyNzc0NiwtMTU2MjQ2Mzc3OCwzOTIwOTI1NT
-QsLTQ3MzkwMjk4NSwxMDk0NTIyNDUzLC0xMzg1OTMxOTYwLDEw
-NTUwMDAwNjFdfQ==
--->
