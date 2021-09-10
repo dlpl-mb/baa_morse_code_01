@@ -2,7 +2,7 @@
 
 ## Geheimzeichen: Das Morse-Alphabet I
 
-**Hallo, ich bin Robi01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
+**Hallo, ich bin Robi-x01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
 Wenn du neu bist im Bereich Micro:bit, dann empfehle ich dir das [Schulbuch zum Micro:bit](https://microbit.eeducation.at/wiki/Hauptseite "(target|_blank)")
 zum Einarbeiten in diesen fabelhaften Kleincomputer. Dieses Projekt benötigt bereits ein wenig Grundwissen in BBC micro:bit. Zum Arbeiten an diesem Projekte ist es wichtig, dass ihr im Team zu zweit arbeitet.
