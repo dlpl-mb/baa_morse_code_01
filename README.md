@@ -50,7 +50,7 @@ input.onButtonPressed(Button.B, () => {
 
 * Schreib nun jeder im Programmeditor (mit **grafischen Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
 
-[Programmcode 1a](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+[Programmcode 1a - Taste A und B](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
 **!!! Nun wird es deutlich schwieriger !!!**
 
@@ -107,13 +107,13 @@ liste_morsecodes = [
 * Studiere diesen Programmteil und experimentiere mit der Schliefe bei `Taste A`  
 * Verändere Variable und deren Inhalte und sieh dir dann die Schleife an.
 
-[Programmcode 1b](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
+[Programmcode 1b - Taste A](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
 
 * Die `Taste B` hat nun die Aufgabe, die Morsezeichen auszugeben
-* Die Logik ist wieder serh ähnlich der `Taste A`
+* Die Logik ist wieder sehr ähnlich der `Taste A`
 * Dazu hier der Programmcode - experimentiere auch hier wieder mit den Variblen.
   
-[Programmcode 1c](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
+[Programmcode 1c - Taste B](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
 
 [Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
 
