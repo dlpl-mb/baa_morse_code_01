@@ -17,11 +17,11 @@ Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Ein umfangreiche
 
 ## Die Zeichen des Morsealphabets
 
-Die Morsezeichen kann man optisch (Bildern) oder akustisch (Ton) oder auch über elektrische Leitungen übermitteln. Wichtig dabei ist, dass jeder Buchstabe, jede Ziffer genau einem Code aus **Punkt und Strich** entspricht.
+Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (mit Ton) oder auch über elektrische Leitungen übermitteln. Wichtig dabei ist, dass jeder Buchstabe, jede Ziffer genau einem Code aus **Punkt und Strich** entspricht. Hier ist eine Tabelle des Morsealphabets.
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1"/>
 
-* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Kodieren. Jeder Buchstabe besteht aus einer bestimmte Kombination aus Punkten und Strichen.
+* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Darstellung zur Verfügung. Jeder Buchstabe besteht aus einer bestimmte Kombination aus Punkten und Strichen.
 * Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
 * Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) dann nach jedem Wort.
