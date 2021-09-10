@@ -1,4 +1,4 @@
-# Das Morse-Alphabetyyyzzzssss
+# Das Morse-Alphabet
 
 ## Geheimzeichen: Das Morse-Alphabet I
 
