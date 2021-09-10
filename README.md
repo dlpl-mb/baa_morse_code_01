@@ -50,7 +50,9 @@ input.onButtonPressed(Button.B, () => {
 
 * Schreib nun jeder im Programmeditor (mit **grafischen Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
 
-[Programmcode 1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+[Programmcode 1a](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+
+**!!! Nun wird es deutlich schwieriger !!!**
 
 ## Programm 2: Alle sechs Buchstaben in einem Programm anzeigen
 
@@ -65,11 +67,11 @@ Es ist recht aufwändig, für jeden Buchstaben immer ein eigenes Programm zu sch
 
 ### Zugriff auf die Buchstaben einer Liste
 
-* Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer ) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element
-* **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G)
+* Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element, liste_morsecode[1] ist das zweite Element.
+* **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G) (Zugegeben: das ist vorerst etwas unlogisch, bringt aber später beim Programmieren große Vorteile)
 * Die höchste Nummer ist immer **Anzahl der Elemente - 1**
-* Das ist sicher sehr gewöhnungsbedürftig - man sollte sich das möglichst schnell angewöhnen und anwenden.
-* Wie du unten im Beispiel ersehen kannst, werden die Indizes von 0 bis ... immer automatisch verteilt und du brauchst die Elemente nur der Reihe nach mit Beistrichen getrennt angeben. Handelt es sich um Texte, so sind diese in Anführungszeichen einzuschließen.
+* Das ist sicher sehr gewöhnungsbedürftig - man sollte sich die möglichst schnell eingewöhnen und anwenden
+* Wie du im Beispiel unten ersehen kannst, werden die Indizes von 0 bis ... immer automatisch verteilt und du brauchst die Elemente nur der Reihe nach mit Beistrichen getrennt angeben. Handelt es sich um Texte, so sind diese Einzelelemente in Anführungszeichen einzuschließen.
 
 ```blocks
 let liste_morsecodes: string[] = []
@@ -95,38 +97,28 @@ liste_morsecodes = [
 ]
 ```
 
-### Darstellung der Buchstaben
+### Anzeigen der Buchstaben nach der Reihe von A bis G
 
 * Wir benötigen eine Schleife von 0 bis 6
 * Innerhalb der Schleife zeigen wir mit einer **Laufvariable** - wir nennen sie hier **index** auf jeweils ein Element.
 
-Du kannst nun am folgenden fertigen Programms noch experimentiert.
+### Ein kleiner Programmteil zum Experimentieren - öffne das Programm im Micro:bit
 
-* Verändere Variable und deren Inhalte
- [Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
+* Studiere diesen Programmteil und experimentiere mit der Schliefe bei `Taste A`  
+* Verändere Variable und deren Inhalte und sieh dir dann die Schleife an.
 
-```blocks
-input.onButtonPressed(Button.A, function () {
-    for (let index = 0; index <= anz_bst; index++) {
-        basic.showString("" + (liste_buchstaben[index]))
-        basic.pause(500)
-    }
-})
-input.onButtonPressed(Button.B, function () {
-    for (let index2 = 0; index2 <= anz_bst; index2++) {
-        basic.showString("" + (liste_buchstaben[index2]))
-        basic.showString("" + (liste_morsecodes[index2]))
-        basic.pause(2000)
-        basic.clearScreen()
-    }
-})
-let anz_bst = 0
-let liste_morsecodes: string[] = []
-let liste_buchstaben: string[] = []
-basic.showIcon(IconNames.Yes)
+[Programmcode 1b](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
 
-anz_bst = liste_buchstaben.length - 1
-```
+* Die `Taste B` hat nun die Aufgabe, die Morsezeichen auszugeben
+* Die Logik ist wieder serh ähnlich der `Taste A`
+* Dazu hier der Programmcode - experimentiere auch hier wieder mit den Variblen.
+  
+[Programmcode 1c](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
+
+[Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
+
+<img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/bild_prg1c.png?raw=1"/>
+
 
 Experimentiere mit diesem Programm.
 
