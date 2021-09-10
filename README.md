@@ -13,7 +13,7 @@ zum Einarbeiten in diesen fabelhaften Kleincomputer. Dieses Projekt benötigt be
 </center>
 ```
 
-Wir werden uns eine Geheimsprache ansehen - das **Morse-Alphabet**. Es diente jahrzehntelang zum Übertragen von Nachrichten - heute ist es in einigen Bereichen noch gültig und wird verwendet.
+Wirssss werden uns eine Geheimsprache ansehen - das **Morse-Alphabet**. Es diente jahrzehntelang zum Übertragen von Nachrichten - heute ist es in einigen Bereichen noch gültig und wird verwendet.
 Inzwischen es unzählige Kodiersysteme, die sogar noch zusätzlich verschlüsselt können, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicher übermittelt werden können.
 Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Ein umfangreiche Information zum Morsecode erhältst du in [Wikipedia](https://de.wikipedia.org/wiki/Morsecode "(target|_blank)").
 
