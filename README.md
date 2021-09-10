@@ -129,11 +129,11 @@ liste_morsecodes = [
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
-Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer / eurer Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind die **Wichtigsten** im Bereiche der Programmierung.
+* Übt mit eurem Lehrer/eurer Lehrerin **Arrays** noch an anderen Sachverhalten. Diese Art von Variablen sind die **Wichtigsten** im Bereiche der Programmierung.
 
-Im zweiten Projektteil wirst du das Gelernte anwenden und noch ausbauen. Es geht dort dann um das Senden der Nachrichten an einen zweiten Micro.bit.
+* Im zweiten Projektteil wirst du das Gelernte anwenden und noch ausbauen. Dort gehts es dann um das **Senden der Nachrichten** an einen zweiten Micro.bit.
 
-## [Hier geht es zum Hauptteil - Morsecodes versenden](https://dlpl-mb.github.io/baa_morse_code_02)
+## [Aufruf des zweiten Projektteils: Morsecodes versenden](https://dlpl-mb.github.io/baa_morse_code_02)
 
 <style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
 <script src="https://makecode.com/gh-pages-embed.js"></script>
