@@ -25,10 +25,10 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 * Schreib dir auf einem Blatt Papier die ersten Buchsstaben **A bis G** heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
 * Statt einem Buchstaben werden also nur **Punkt- und Strichcodes** gesendet - was den großen Vorteil hat, dass man sogar ohne elektrische Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
 * Damit das Gegenüber weiß, wann der eine Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht (ca. 1/2 Sekunde). Längere Pausen (etwa 1 Sekunde) zeigen an, dass ein Wort zu Ende ist.
-* **Nun gleich eine Übungsfrage:** Welcher Buchstabe ist das? `-..` oder dieser Buchstabe `..-.`  
+* **Nun gleich eine Übungsfrage:** Welchen Buchstaben stellt dieses Zeichenkombination dar? `-..` oder diese `..-.`  
 * Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder `C` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
-## Programm 1: Codes anzeigen
+## Programm 1: Die Morsecodes auf dem icro:bit anzeigen
 
 Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für `A` bis `G`.
 
@@ -48,22 +48,22 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 
-* Schreib nun jeder/jede im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
+* Schreib nun jeder im Programmeditor (mit **grafischen Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
 
 [Programmcode 1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
-## Programm 2: Alle sechs Buchstaben in ein Programm
+## Programm 2: Alle sechs Buchstaben in einem Programm anzeigen
 
-Zugegeben: Das war ganz schön aufwändig, für jeden Buchstaben immer ein eigenes Programm zu schreiben.
+Es ist recht aufwändig, für jeden Buchstaben immer ein eigenes Programm zu schreiben.
 **Wir packen nun alles 7 Buchstaben in ein Programm:**
 
-* Wir müssen alle sieben Buchstaben in eine Liste bringen
+* Wir müssen also alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste**
 * Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
 * Lege dort 2 Text-Listen an: `liste buchstaben` und  `liste_morsecodes` (siehe unten)
 * Vervollständige die Eintragungen von "A" bis "G"
 
-### Speicherung der Buchstaben (sehr schwierig)
+### Zugriff auf die Buchstaben einer Liste
 
 * Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer ) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element
 * **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G)
