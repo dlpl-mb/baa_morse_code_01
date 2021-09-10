@@ -52,14 +52,16 @@ input.onButtonPressed(Button.B, () => {
 
 [Programmcode 1a - Taste A und B](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
+<img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
+
 **!!! Nun wird es deutlich schwieriger !!!**
 
 ## Programm 2: Alle sechs Buchstaben in einem Programm anzeigen
 
 Es ist recht aufwändig, für jeden Buchstaben immer ein eigenes Programm zu schreiben.
-**Wir packen nun alles 7 Buchstaben in ein Programm:**
+**Wir packen nun alle 7 Buchstaben in ein Programm:**
 
-* Wir müssen also alle sieben Buchstaben in eine Liste bringen
+* Wir werden dazu alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste**
 * Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
 * Lege dort 2 Text-Listen an: `liste buchstaben` und  `liste_morsecodes` (siehe unten)
@@ -115,20 +117,23 @@ liste_morsecodes = [
   
 [Programmcode 1c - Taste B](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
 
+## Und nun der fertige Programmcode für den ersten Projekteteil **Einführung**
+
 [Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/bild_prg1c.png?raw=1"/>
 
+* Experimentiere mit diesem Programm.
 
-Experimentiere mit diesem Programm.
+### Dies war das extrem schwierige Kapitel der Arrays - das ist immer ein kleiner Prüfstein für uns Programmierer und Programmierinnen.
 
-### Dies war das schwierige Kapitel der Arrays - das ist immer ein Profikapitel für Programmierer und Programmierinnen.
+<img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
-Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer / eurer Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind eine der wichtigsten im Bereiche der Programmierung.
+Du hast nun bereits Arrays (Listen) kennen gelernt - übt mit eurem Lehrer / eurer Lehrerin Arrays noch an anderen Sachverhalten. Diese Art von Variablen sind die **Wichtigsten** im Bereiche der Programmierung.
 
-In der zweiten Lektion wirst du schon tiefer in das Programmieren einsteigen und das bisher gelernte anwenden.
+Im zweiten Projektteil wirst du das Gelernte anwenden und noch ausbauen. Es geht dort dann um das Senden der Nachrichten an einen zweiten Micro.bit.
 
-## [Lektion 2 - Morsecode](https://dlpl-mb.github.io/baa_morse_code_02)
+## [Hier geht es zum Hauptteil - Morsecodes versenden](https://dlpl-mb.github.io/baa_morse_code_02)
 
 <style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style>
 <script src="https://makecode.com/gh-pages-embed.js"></script>
