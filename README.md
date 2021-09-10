@@ -21,11 +21,11 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1"/>
 
-* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Darstellung zur Verfügung. Jeder Buchstabe besteht aus einer bestimmte Kombination aus Punkten und Strichen.
-* Schreib dir in einer kleinen Tabelle die ersten Buchsstaben **A bis G** auf ein Blatt Papier heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
-* Statt einem Buchstaben werden also nur Punkt- und Strichcodes gesendet - was den großen Vorteil, dass man sogar ohne Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
-* Damit das Gegenüber weiß, wann ein Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht. Längere Pause (etwa 1 Sekunde) dann nach jedem Wort.
-* **Nun gleich eine Frage:** Welcher Buchstabe ist das? `-..` oder dieser Buchstabe `..-.`  
+* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Darstellung zur Verfügung. Jeder Buchstabe besteht aus einer bestimmte Kombination aus **Punkten und Strichen**.
+* Schreib dir auf einem Blatt Papier die ersten Buchsstaben **A bis G** heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
+* Statt einem Buchstaben werden also nur **Punkt- und Strichcodes** gesendet - was den großen Vorteil hat, dass man sogar ohne elektrische Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
+* Damit das Gegenüber weiß, wann der eine Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht (ca. 1/2 Sekunde). Längere Pausen (etwa 1 Sekunde) zeigen an, dass ein Wort zu Ende ist.
+* **Nun gleich eine Übungsfrage:** Welcher Buchstabe ist das? `-..` oder dieser Buchstabe `..-.`  
 * Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder `C` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
 ## Programm 1: Codes anzeigen
@@ -34,9 +34,9 @@ Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Cod
 
 **Die Aufgaben lautet:**
 
-* `Taste A` des Micro:bit zeigt die Buchstaben A bis G (später nehmen wir alle anderen Buchstaben dazu.)
-* `Taste B` zeigt den Morse-Code für diese Zeichen an 
-* Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bit übertragen und somit Anderen senden kannst.
+* `Taste A` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle anderen Buchstaben dazu.)
+* `Taste B` zeigt den Morse-Code für dieses Zeichen an
+* Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bits senden kannst.
 
 ```blocks
 input.onButtonPressed(Button.A, () => { 
@@ -48,7 +48,7 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 
-* Schreib nun im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst das Demoprogramm für jeden Buchstaben umschreiben.
+* Schreib nun jeder/jede im Programmeditor (mit grafischen **Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
 
 [Programmcode 1](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
