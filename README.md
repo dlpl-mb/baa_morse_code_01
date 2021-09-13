@@ -106,34 +106,41 @@ liste_morsecodes = [
 * Wir benötigen für den Zugriff auf alle Elemente eine Schleife von 0 bis 6
 * Innerhalb der Schleife "zeigen" wir mit einer **Laufvariable** (mit einem Index) auf das jeweilige Element.
 
-### Ein kleiner Programmteil zum Experimentieren - öffne das Programm im Micro:bit
+### Ein kleiner Programmteil zum Experimentieren - öffne das Programm 1b bim Micro:bit
 
-* Studiere diesen Programmteil und experimentiere mit der Schliefe bei ``|Taste A|``  
+* Studiere diesen Programmteil und experimentiere mit der Schleife bei ``|Taste A|``  
 * Verändere Variable und deren Inhalte und sieh dir dann die Schleife an.
+* Überlege, was die neue Variable ``|anz_bst|`` für eine Funktion hat: 
+  * Tipp: Wir könnten ja die Schleife von 0 bis 6 fix programmieren - was passiert aber, wenn wir später die Liste der Buchstaben ändern.
 
 [Programmcode 1b - Taste A](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
 
-* Die ``|Taste B|`` hat nun die Aufgabe, die Morsezeichen auszugeben
+* Derzeit gibt die ``|Taste A|`` die Buchstaben aus
+* Die ``|Taste B|`` bekommt nun auch eine Aufgabe, die Morsezeichen auszugeben
 * Die Logik ist wieder sehr ähnlich der ``|Taste A|``
-* Dazu hier der Programmcode - experimentiere auch hier wieder mit den Variblen.
+* Dazu hier der Programmcode 1c - experimentiere auch hier wieder mit dem Programmcode.
   
 [Programmcode 1c - Taste B](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
 
-## Und nun der fertige Programmcode für den ersten Projekteteil **Einführung**
+## Fertiger Programmteil "Einführung"
 
-[Programmcode 2](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
+* Und nun haben wir bereits das fertige Programm diese Projektteils **Einführung**
+* Eine kleine Ergänzung kommt zur ``|Taste B|`` noch dazu:
+  * Man möchte auch den Buchstaben zum Morsecode sehen.
+
+[Programmcode 2: Fertiges Programm](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/bild_prg1c.png?raw=1"/>
 
 * Experimentiere mit diesem Programm.
 
-### Dies war das extrem schwierige Kapitel der Arrays - das ist immer ein kleiner Prüfstein für uns Programmierer und Programmierinnen.
+### Dies war nun ein schwieriges Kapitel mit den Arrays (Listen) - das ist immer ein kleiner Prüfstein für uns Roboter.
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
-* Übt mit eurem Lehrer/eurer Lehrerin **Arrays** noch an anderen Sachverhalten. Diese Art von Variablen sind die **Wichtigsten** im Bereiche der Programmierung.
+* Übt mit eurem Lehrer/eurer Lehrerin **Arrays** noch an anderen Sachverhalten. Diese Art von Variablen sind die **wichtigsten** im Bereich der Programmierung. Wer mit Array umgehen kann, der kann sehr viele Anwendungen verstehen oder selber programmieren.**Arrays** werden immer dann interessant, wenn man viele Variable braucht, dann überlegt man als Programmierer, wie man sie in eine Liste packen könnte. 
 
-* Im zweiten Projektteil wirst du das Gelernte anwenden und noch ausbauen. Dort gehts es dann um das **Senden der Nachrichten** an einen zweiten Micro.bit.
+* Im zweiten Projektteil wirst du das Gelernte anwenden und noch ausbauen. Dort gehts es dann um das **Senden der Nachrichten** - wir senden an einen zweiten Micro:bit.
 
 ## [Aufruf des zweiten Projektteils: Morsecodes versenden](https://dlpl-mb.github.io/baa_morse_code_02)
 
