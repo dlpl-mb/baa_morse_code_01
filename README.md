@@ -28,13 +28,13 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 * **Nun gleich eine Übungsfrage:** Welchen Buchstaben stellt dieses Zeichenkombination dar? `-..` oder diese `..-.`  
 * Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder `C` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
 
-## Programm 1: Die Morsecodes auf dem icro:bit anzeigen
+## Programm 1: Die Morsecodes auf dem Micro:bit anzeigen
 
 Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für `A` bis `G`.
 
 **Die Aufgaben lautet:**
 
-* `Taste A` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle anderen Buchstaben dazu.)
+* ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle anderen Buchstaben dazu.)
 * `Taste B` zeigt den Morse-Code für dieses Zeichen an
 * Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bits senden kannst.
 
