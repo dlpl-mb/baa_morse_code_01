@@ -5,36 +5,35 @@
 **Hallo, ich bin Robi-x01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
 Wenn du neu bist im Bereich Micro:bit, dann empfehle ich dir das [Schulbuch zum Micro:bit](https://microbit.eeducation.at/wiki/Hauptseite "(target|_blank)")
-zum Einarbeiten in diesen fabelhaften Kleincomputer. Dieses Projekt benötigt bereits ein wenig Grundwissen in BBC micro:bit. Zum Arbeiten an diesem Projekte ist es wichtig, dass ihr im Team zu zweit arbeitet.
+zum Einarbeiten in diesen fabelhaften Kleincomputer. Dieses Projekt benötigt bereits ein wenig Grundwissen in BBC micro:bit. Zum Arbeiten an diesem Projekte ist es auch noch wichtig, dass ihr im Team zu zweit arbeitet.
 
 <center>
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 </center>
 
-Wir werden uns eine Geheimsprache ansehen - das **Morse-Alphabet**. Es diente jahrzehntelang zum Übertragen von Nachrichten - heute ist es in einigen Bereichen noch verwendet.
-Inzwischen gibt es unzählige Kodiersysteme, die sogar noch zusätzlich verschlüsselt können, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicher übermittelt werden können.
-Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Ein umfangreiche Information zum Morsecode erhältst du in [Wikipedia](https://de.wikipedia.org/wiki/Morsecode "(target|_blank)").
+Wir werden uns eine Geheimsprache ansehen - das **Morse-Alphabet**. Es diente jahrzehntelang zum Übertragen von Nachrichten - heute wird es in einigen wenigen Bereichen noch verwendet.
+Inzwischen gibt es unzählige Kodiersysteme, die zusätzlich zum Übertragen auch noch verschlüsselt können, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicher übermittelt werden können.
+Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Eine umfangreiche Information zum Morsecode erhältst du in [Wikipedia](https://de.wikipedia.org/wiki/Morsecode "(target|_blank)").
 
 ## Die Zeichen des Morsealphabets
 
-Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (mit Ton) oder auch über elektrische Leitungen übermitteln. Wichtig dabei ist, dass jeder Buchstabe, jede Ziffer genau einem Code aus **Punkt und Strich** entspricht. Hier ist eine Tabelle des Morsealphabets.
+Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (mit Ton) oder auch über elektrische Leitungen als kurze und lange Signale übermitteln. Wichtig dabei ist, dass jeder Buchstabe, jede Ziffer genau einem Code aus **Punkten und Strichen** entspricht. Hier ist eine Tabelle des Morsealphabets.
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1"/>
 
 * Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Darstellung zur Verfügung. Jeder Buchstabe besteht aus einer bestimmte Kombination aus **Punkten und Strichen**.
-* Schreib dir auf einem Blatt Papier die ersten Buchsstaben **A bis G** heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst einmal nur wenige Buchstaben.
-* Statt einem Buchstaben werden also nur **Punkt- und Strichcodes** gesendet - was den großen Vorteil hat, dass man sogar ohne elektrische Leitungen etwa über Lichtsignale oder Soundsignale Daten übertragen kann.
-* Damit das Gegenüber weiß, wann der eine Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht (ca. 1/2 Sekunde). Längere Pausen (etwa 1 Sekunde) zeigen an, dass ein Wort zu Ende ist.
+* Schreib dir auf einem Blatt Papier die ersten Buchsstaben **A bis G** heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst nur einmal wenige Buchstaben.
+* Damit beim Senden der Empfänger weiß, wann der eine Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht (ca. 1/2 Sekunde). Längere Pausen (etwa 1 Sekunde) zeigen an, dass ein Wort zu Ende ist.
 * **Nun gleich eine Übungsfrage:** Welchen Buchstaben stellt dieses Zeichenkombination dar? `-..` oder diese `..-.`  
-* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein `A` oder `B` oder `C` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten.
+* Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein **A** oder **B** oder **C**` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten. Wechselt die Rollen und versucht einen guten Klopf-Rhythmus zu finden.
 
 ## Programm 1: Die Morsecodes auf dem Micro:bit anzeigen
 
-Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für `A` bis `G`.
+Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für **A bis G**.
 
 **Die Aufgaben lautet:**
 
-* ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle weiteren Buchstaben dazu.)
+* ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir weitere Buchstaben dazu.)
 * ``|Taste B|`` zeigt den Morse-Code für dieses Zeichen an
 * Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bits senden kannst.
 
@@ -48,7 +47,7 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 
-* Schreib nun jeder im Programmeditor (mit **grafischen Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
+* Schreibt nun im Programmeditor (mit **grafischen Blöcke**) die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben.
 
 [Programmcode 1a - ``|Taste A|`` und B](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
