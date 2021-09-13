@@ -49,7 +49,9 @@ input.onButtonPressed(Button.B, () => {
 
 * Schreibt nun im Programmeditor (mit **grafischen Blöcke**) die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben (ganz schön umständlich!)
 
-[Programmcode 1a - ``|Taste A|`` und ``|B|``](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+[Programmcode 1 - ``|Taste A|`` und ``|B|``](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+
+<hr>
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
@@ -62,17 +64,9 @@ Es ist recht aufwändig, für jeden Buchstaben immer ein eigenes Programm zu sch
 
 * Wir werden dazu alle sieben Buchstaben in eine Liste bringen
 * Dazu gibt es einen besonderen Variablentyp **Array** oder **Liste**
-* Wähle unter ``|Fortgeschritten Arrays|`` und dort ``||array:setze Text_List ...||``
+* Wähle unter ``|array:Arrays|`` und dort ``|array:setze Text_List ...|``
 * Lege dort 2 Text-Listen an: `liste buchstaben` und  `liste_morsecodes` (siehe unten)
 * Vervollständige die Eintragungen von "A" bis "G"
-
-### Zugriff auf die Buchstaben einer Liste
-
-* Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element, liste_morsecode[1] ist das zweite Element.
-* **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G) (Zugegeben: das ist vorerst etwas unlogisch, bringt aber später beim Programmieren große Vorteile)
-* Die höchste Nummer ist immer **Anzahl der Elemente - 1**
-* Das ist sicher sehr gewöhnungsbedürftig - man sollte sich die möglichst schnell eingewöhnen und anwenden
-* Wie du im Beispiel unten ersehen kannst, werden die Indizes von 0 bis ... immer automatisch verteilt und du brauchst die Elemente nur der Reihe nach mit Beistrichen getrennt angeben. Handelt es sich um Texte, so sind diese Einzelelemente in Anführungszeichen einzuschließen.
 
 ```blocks
 let liste_morsecodes: string[] = []
@@ -98,10 +92,19 @@ liste_morsecodes = [
 ]
 ```
 
+### Zugriff auf die Buchstaben einer Liste
+
+* Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element, liste_morsecode[1] ist das zweite Element.
+* **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G) (Zugegeben: das ist vorerst etwas unlogisch, bringt aber später beim Programmieren große Vorteile)
+* Die höchste Nummer ist immer **Anzahl der Elemente - 1**
+* Das ist sicher sehr gewöhnungsbedürftig - man sollte sich diese kleine Sonderlogik möglichst schnell eingewöhnen und anwenden
+* Wie du im Beispiel unten ersehen kannst, werden die Indizes von 0 bis ... immer automatisch verteilt und du brauchst die Elemente nur der Reihe nach mit Beistrichen getrennt angeben. Handelt es sich um Texte, so sind diese Einzelelemente in Anführungszeichen einzuschließen.
+* Sobald man zugreifen will auf einzelne Elemente, dann ist dieser zugriffsindex wieder wichtig.
+
 ### Anzeigen der Buchstaben nach der Reihe von A bis G
 
-* Wir benötigen eine Schleife von 0 bis 6
-* Innerhalb der Schleife zeigen wir mit einer **Laufvariable** - wir nennen sie hier **index** auf jeweils ein Element.
+* Wir benötigen für den Zugriff auf alle Elemente eine Schleife von 0 bis 6
+* Innerhalb der Schleife "zeigen" wir mit einer **Laufvariable** (mit einem Index) auf das jeweilige Element.
 
 ### Ein kleiner Programmteil zum Experimentieren - öffne das Programm im Micro:bit
 
