@@ -34,8 +34,8 @@ Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Cod
 
 **Die Aufgaben lautet:**
 
-* ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle anderen Buchstaben dazu.)
-* `Taste B` zeigt den Morse-Code für dieses Zeichen an
+* ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle weiteren Buchstaben dazu.)
+* ``||Taste B||`` zeigt den Morse-Code für dieses Zeichen an
 * Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bits senden kannst.
 
 ```blocks
