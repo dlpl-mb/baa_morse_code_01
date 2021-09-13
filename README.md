@@ -35,7 +35,7 @@ Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Cod
 **Die Aufgaben lautet:**
 
 * ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir alle weiteren Buchstaben dazu.)
-* ``||Taste B||`` zeigt den Morse-Code für dieses Zeichen an
+* ``|Taste B|`` zeigt den Morse-Code für dieses Zeichen an
 * Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bits senden kannst.
 
 ```blocks
@@ -50,7 +50,7 @@ input.onButtonPressed(Button.B, () => {
 
 * Schreib nun jeder im Programmeditor (mit **grafischen Blöcke**) die kurzen Programme für die anderen Buchstaben B bis G. Du musst dieses Demoprogramm für jeden Buchstaben umschreiben.
 
-[Programmcode 1a - Taste A und B](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+[Programmcode 1a - ``|Taste A|`` und B](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
@@ -106,13 +106,13 @@ liste_morsecodes = [
 
 ### Ein kleiner Programmteil zum Experimentieren - öffne das Programm im Micro:bit
 
-* Studiere diesen Programmteil und experimentiere mit der Schliefe bei `Taste A`  
+* Studiere diesen Programmteil und experimentiere mit der Schliefe bei ``|Taste A|``  
 * Verändere Variable und deren Inhalte und sieh dir dann die Schleife an.
 
 [Programmcode 1b - Taste A](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
 
-* Die `Taste B` hat nun die Aufgabe, die Morsezeichen auszugeben
-* Die Logik ist wieder sehr ähnlich der `Taste A`
+* Die ``|Taste B|`` hat nun die Aufgabe, die Morsezeichen auszugeben
+* Die Logik ist wieder sehr ähnlich der ``|Taste A|``
 * Dazu hier der Programmcode - experimentiere auch hier wieder mit den Variblen.
   
 [Programmcode 1c - Taste B](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
