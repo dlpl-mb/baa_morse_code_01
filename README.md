@@ -49,7 +49,7 @@ input.onButtonPressed(Button.B, () => {
 
 * Schreibt nun im Programmeditor (mit **grafischen Blöcke**) die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben (ganz schön umständlich!)
 
-[Programmcode 1 - ``|Taste A|`` und ``|B|``](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+* [Programmcode 1 - ``|Taste A|`` und ``|B|``](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
 <hr>
 
@@ -113,14 +113,14 @@ liste_morsecodes = [
 * Überlege, was die neue Variable ``|anz_bst|`` für eine Funktion hat: 
   * Tipp: Wir könnten ja die Schleife von 0 bis 6 fix programmieren - was passiert aber, wenn wir später die Liste der Buchstaben ändern.
 
-[Programmcode 1b - Taste A](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
+* [Programmcode 1b - Taste A](https://makecode.microbit.org/#pub:_61cEM1PaTRMR){:target="_blank"}
 
 * Derzeit gibt die ``|Taste A|`` die Buchstaben aus
 * Die ``|Taste B|`` bekommt nun auch eine Aufgabe, die Morsezeichen auszugeben
 * Die Logik ist wieder sehr ähnlich der ``|Taste A|``
 * Dazu hier der Programmcode 1c - experimentiere auch hier wieder mit dem Programmcode.
   
-[Programmcode 1c - Taste B](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
+* [Programmcode 1c - Taste B](https://makecode.microbit.org/#pub:_XvJik0eaW78Y){:target="_blank"}
 
 ## Fertiger Programmteil "Einführung"
 
@@ -128,7 +128,7 @@ liste_morsecodes = [
 * Eine kleine Ergänzung kommt zur ``|Taste B|`` noch dazu:
   * Man möchte auch den Buchstaben zum Morsecode sehen.
 
-[Programmcode 2: Fertiges Programm](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
+* [Programmcode 2: Fertiges Programm](https://makecode.microbit.org/#pub:_MPxAW5dkwgKF){:target="_blank"}
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/bild_prg1c.png?raw=1"/>
 
