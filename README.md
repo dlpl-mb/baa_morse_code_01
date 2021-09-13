@@ -47,9 +47,9 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 
-* Schreibt nun im Programmeditor (mit **grafischen Blöcke**) die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben.
+* Schreibt nun im Programmeditor (mit **grafischen Blöcke**) die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben (ganz schön umständlich!)
 
-[Programmcode 1a - ``|Taste A|`` und B](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
+[Programmcode 1a - ``|Taste A|`` und ``|B|``](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
