@@ -29,20 +29,6 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 * **Dazu gleich eine Übungsfrage:** Welchen Buchstaben stellt dieses Zeichenkombination dar? `-..` oder diese `..-.`  
 * Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein **A** oder **B** oder **C**` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten. Wechselt die Rollen und versucht einen guten Klopf-Rhythmus zu finden.
 
-## Der Morsecode-Tester
-
-* Drücke ``|Taste A|`` für die Aufgabe
-* Suche den angezeigten Buchstaben in der Morsetabelle
-* Drücke ``|Taste B|`` für die Lösung
-* Führe 10 Versuche durch
-* Wie gut bist du im Raten des Morsecodes
-* <div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_Dvi9mYHgpgPU" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-* Wenn du wissen willst, wie der Programmcode aussieht, dann öffne diesen Link
-* [Programmcode 1b - Morsecode-Test`](https://makecode.microbit.org/#pub:_YF16Xa8C9ecP(https://makecode.microbit.org/_Dvi9mYHgpgPU)){:target="_blank"}
-
-* *** ENDE *** ENDE *** ENDE
-
 ## Programm 1: Die Morsecodes auf dem Micro:bit anzeigen
 
 Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für **A bis G**.
