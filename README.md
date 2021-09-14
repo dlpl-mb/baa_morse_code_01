@@ -1,5 +1,7 @@
 # Das Morse-Alphabet
 
+ ... IN ARBEIT ...
+ 
 ## Geheimzeichen: Das Morse-Alphabet I
 
 **Hallo, ich bin Robi-x01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
@@ -93,8 +95,6 @@ liste_morsecodes = [
 ```
 
 ### Zugriff auf die Buchstaben einer Liste
-
- ... IN ARBEIT ...
 
 * Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element, liste_morsecode[1] ist das zweite Element.
 * **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G) (Zugegeben: das ist vorerst etwas unlogisch, bringt aber später beim Programmieren große Vorteile)
