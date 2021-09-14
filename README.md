@@ -1,7 +1,7 @@
 # Das Morse-Alphabet
 
- ... IN ARBEIT ...
- 
+... IN ARBEIT ...
+
 ## Geheimzeichen: Das Morse-Alphabet I
 
 **Hallo, ich bin Robi-x01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
