@@ -5,15 +5,15 @@
 **Hallo, ich bin Robi-x01 und werde dich beim Programmieren mit BBC micro:bit begleiten.**
 
 Wenn du neu bist im Bereich Micro:bit, dann empfehle ich dir das [Schulbuch zum Micro:bit](https://microbit.eeducation.at/wiki/Hauptseite "(target|_blank)")
-zum Einarbeiten in diesen fabelhaften Kleincomputer. Dieses Projekt benötigt bereits ein wenig Grundwissen in BBC micro:bit. Zum Arbeiten an diesem Projekte ist es auch noch wichtig, dass ihr im Team zu zweit arbeitet.
+zum Einarbeiten in diesen fabelhaften Kleincomputer. Dieses Projekt benötigt bereits ein wenig Grundwissen in BBC micro:bit. Zum Arbeiten an diesem Projekt ist es wichtig, dass ihr im Team zu zweit arbeitet.
 
 <center>
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 </center>
 
 Wir werden uns eine Geheimsprache ansehen - das **Morse-Alphabet**. Es diente jahrzehntelang zum Übertragen von Nachrichten - heute wird es in einigen wenigen Bereichen noch verwendet.
-Inzwischen gibt es unzählige Kodiersysteme, die zusätzlich zum Übertragen auch noch verschlüsselt können, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicher übermittelt werden können.
-Du wirst nun diese wichtige Morsealphabet genauer kennenlernen. Eine umfangreiche Information zum Morsecode erhältst du in [Wikipedia](https://de.wikipedia.org/wiki/Morsecode "(target|_blank)").
+Inzwischen gibt es unzählige Codiersysteme, die zusätzlich zum Übertragen auch noch verschlüsselt können, damit beispielswiese Geldüberweisungen oder auch militärische Informationen sicher übermittelt werden können.
+Du wirst nun das Morsealphabet genauer kennenlernen. Eine umfangreiche Information zum Morsecode erhältst du in [Wikipedia](https://de.wikipedia.org/wiki/Morsecode "(target|_blank)").
 
 ## Die Zeichen des Morsealphabets
 
@@ -21,21 +21,21 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 
 <img width="100%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/morse-tab.png?raw=1"/>
 
-* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zum Darstellung zur Verfügung. Jeder Buchstabe besteht aus einer bestimmte Kombination aus **Punkten und Strichen**.
+* Wie du aus der Tabelle ersehen kannst, haben Morsezeichen nur den **Punkt** und den **Strich** zur Darstellung zur Verfügung. Jeder Buchstabe besteht aus einer Kombination von **Punkten und Strichen**.
 * Schreib dir auf einem Blatt Papier die ersten Buchsstaben **A bis G** heraus: **Buchstabe** und **Code** - aus Überblicksgründen verwenden wir in den ersten Übungen vorerst nur einmal wenige Buchstaben.
-* Damit beim Senden der Empfänger weiß, wann der eine Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben ein kurze Pause gemacht (ca. 1/2 Sekunde). Längere Pausen (etwa 1 Sekunde) zeigen an, dass ein Wort zu Ende ist.
-* **Nun gleich eine Übungsfrage:** Welchen Buchstaben stellt dieses Zeichenkombination dar? `-..` oder diese `..-.`  
+* Damit beim Senden der Empfänger weiß, wann der eine Buchstabe zu Ende ist und ein neuer beginnt, wird nach jedem Buchstaben eine kurze Pause eingebaut (ca. 1/2 Sekunde). Längere Pausen (etwa 1 Sekunde) zeigen an, dass ein Wort zu Ende ist.
+* **Dazu gleich eine Übungsfrage:** Welchen Buchstaben stellt dieses Zeichenkombination dar? `-..` oder diese `..-.`  
 * Versucht nun mit Klopfzeichen auf dem Tisch den Morsecode für ein **A** oder **B** oder **C**` zu klopfen - dein Spielpartner sollte versuchen, den Buchstaben zu erraten. Wechselt die Rollen und versucht einen guten Klopf-Rhythmus zu finden.
 
 ## Programm 1: Die Morsecodes auf dem Micro:bit anzeigen
 
 Du baust nun für dem BBC Micro:bit ein erstes Programm zum Zeigen der Morse-Codes für **A bis G**.
 
-**Die Aufgaben lautet:**
+**Eine Aufgabe:**
 
 * ``|Taste A|`` des Micro:bit zeigt vorerst einmal den Buchstabe A (später nehmen wir weitere Buchstaben dazu.)
 * ``|Taste B|`` zeigt den Morse-Code für dieses Zeichen an
-* Später wirst du dein Programm so ausbauen, dass du Codes zu anderen Micro:bits senden kannst.
+* Später wirst du dein Programm so ausbauen, dass Codes an anderen Micro:bits gesendet werden können.
 
 ```blocks
 input.onButtonPressed(Button.A, () => { 
@@ -47,7 +47,7 @@ input.onButtonPressed(Button.B, () => {
 });
 ```
 
-* Schreibt nun im Programmeditor (mit **grafischen Blöcke**) die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben (ganz schön umständlich!)
+* Schreibt nun im (Grafik-)Programmeditor die jeweiligen Programme für die anderen Buchstaben **B bis G**. Du musst das Programm bei jedem Buchstaben umschreiben (ganz schön umständlich!)
 
 * [Programmcode 1 - ``|Taste A|`` und ``|B|``](https://makecode.microbit.org/#pub:_dwP8X4TpY7oz){:target="_blank"}
 
@@ -94,12 +94,13 @@ liste_morsecodes = [
 
 ### Zugriff auf die Buchstaben einer Liste
 
+IN ARBEIT
+
 * Um auf ein Element dieser Liste zuzugreifen, muss du in eckigen Klammern immer den **Index** (Reihungsnummer) innerhalb der Liste angeben - zB: liste_morsecodes[0] ist das erste Element, liste_morsecode[1] ist das zweite Element.
 * **Beachte:** Eine Liste beginnt in allen Programmiersprachen immer mit dem **Element Nr. 0**, dann kommt 1 bis zum letzten Element (6), das hat hier in diesem Beispiel die Nummer 6 (unsere Liste von A bis G) (Zugegeben: das ist vorerst etwas unlogisch, bringt aber später beim Programmieren große Vorteile)
 * Die höchste Nummer ist immer **Anzahl der Elemente - 1**
 * Das ist sicher sehr gewöhnungsbedürftig - man sollte sich diese kleine Sonderlogik möglichst schnell eingewöhnen und anwenden
-* Wie du im Beispiel unten ersehen kannst, werden die Indizes von 0 bis ... immer automatisch verteilt und du brauchst die Elemente nur der Reihe nach mit Beistrichen getrennt angeben. Handelt es sich um Texte, so sind diese Einzelelemente in Anführungszeichen einzuschließen.
-* Sobald man zugreifen will auf einzelne Elemente, dann ist dieser zugriffsindex wieder wichtig.
+* Sobald man auf einzelne Elemente zugreifen will, ist dieses Indexzahl wichtig.
 
 ### Anzeigen der Buchstaben nach der Reihe von A bis G
 
@@ -138,7 +139,7 @@ liste_morsecodes = [
 
 <img width="20%" src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/robi_klein.png?raw=1" />
 
-* Übt mit eurem Lehrer/eurer Lehrerin **Arrays** noch an anderen Sachverhalten. Diese Art von Variablen sind die **wichtigsten** im Bereich der Programmierung. Wer mit Array umgehen kann, der kann sehr viele Anwendungen verstehen oder selber programmieren.**Arrays** werden immer dann interessant, wenn man viele Variable braucht, dann überlegt man als Programmierer, wie man sie in eine Liste packen könnte. 
+* Übt mit eurem Lehrer/eurer Lehrerin **Arrays** noch an anderen Sachverhalten. Diese Art von Variablen sind die **wichtigsten** im Bereich der Programmierung. Wer mit Array umgehen kann, der kann sehr viele Anwendungen verstehen oder programmieren. **Arrays** werden immer dann eingesetzt, wenn viele Variable nötig sind, man überlegt, wie man sie in eine Liste packen könnte.
 
 * Im zweiten Projektteil wirst du das Gelernte anwenden und noch ausbauen. Dort gehts es dann um das **Senden der Nachrichten** - wir senden an einen zweiten Micro:bit.
 
