@@ -35,11 +35,11 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 * Suche den angezeigten Buchstaben in der Morsetabelle
 * Drücke ``|Taste B|`` für die Lösung
 * Führe 10 Versuche durch
-* wei gut bist du im Raten des Morsecodes
-* <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_YF16Xa8C9ecP" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+* Wie gut bist du im Raten des Morsecodes
+* <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_YF16Xa8C9ecP(https://makecode.microbit.org/_KKrV8Ci3oevw)" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 * Wenn du wissen willst, wie der Programmcode aussieht, dann öffne diesen Link
-* [Programmcode 1b - Morsecode-Test`](https://makecode.microbit.org/#pub:_YF16Xa8C9ecP){:target="_blank"}
+* [Programmcode 1b - Morsecode-Test`](https://makecode.microbit.org/#pub:_YF16Xa8C9ecP(https://makecode.microbit.org/_KKrV8Ci3oevw)){:target="_blank"}
 
 * *** ENDE *** ENDE *** ENDE
 
