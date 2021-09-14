@@ -1,6 +1,6 @@
 # Das Morse-Alphabet
 
-... IN ARBEIT ... derzeit nur Grobentwurf
+... IN ARBEIT ... derzeit nur Grobentwurf - wird noch stark gekürzt
 
 ## Geheimzeichen: Das Morse-Alphabet I
 
