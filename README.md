@@ -36,10 +36,10 @@ Die Morsezeichen oder Morsecodes kann man optisch (in Bildern) oder akustisch (m
 * Drücke zur Kontrolle ``|Taste B|`` für die Lösung
 * Führe 10 Versuche durch
 * Wie gut bist du im Erkennen des Morsecodes
-* <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_Dvi9mYHgpgPU" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+* <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_5Y8C3o3chDw2" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 * Wenn du wissen willst, wie der Programmcode aussieht, dann öffne diesen Link
-* [Programmcode 1b - Morsecode-Test`](https://makecode.microbit.org/#pub:_YF16Xa8C9ecP(https://makecode.microbit.org/_Dvi9mYHgpgPU)){:target="_blank"}
+* [Programmcode 1b - Morsecode-Test`](https://makecode.microbit.org/#pub:_YF16Xa8C9ecP(https://makecode.microbit.org/_5Y8C3o3chDw2)){:target="_blank"}
 
 * **ENDE** * **ENDE** * **ENDE** - Wenn du wissen willst, wie man so etwas programmiert, dann kannst du hier weitermachen.
 
